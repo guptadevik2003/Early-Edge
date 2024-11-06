@@ -1,0 +1,1045 @@
+﻿address_type,family_size,parent_status,mother_education,father_education,mother_job,father_job,travel_time,study_time,class_failures,school_support,family_support,internet_access,health,absences,final_grade
+Urban,Greater than 3,Apart,higher education,higher education,at_home,teacher,15 to 30 min.,2 to 5 hours,0,yes,no,no,3,6,6
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,4,6
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,3,yes,no,yes,3,10,10
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,health,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,2,15
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,yes,no,5,4,10
+Urban,Less than or equal to 3,Living together,higher education,secondary education,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,10,15
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,3,0,11
+Urban,Greater than 3,Apart,higher education,higher education,other,teacher,15 to 30 min.,2 to 5 hours,0,yes,yes,no,1,6,6
+Urban,Less than or equal to 3,Apart,secondary education,5th to 9th grade,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,0,19
+Urban,Greater than 3,Living together,secondary education,higher education,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,15
+Urban,Greater than 3,Living together,higher education,higher education,teacher,health,<15 min.,2 to 5 hours,0,no,yes,yes,2,0,9
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,other,30 min. to 1 hour,5 to 10 hours,0,no,yes,yes,4,4,12
+Urban,Less than or equal to 3,Living together,higher education,higher education,health,services,<15 min.,<2 hours,0,no,yes,yes,5,2,14
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,3,2,11
+Urban,Greater than 3,Apart,5th to 9th grade,5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,no,yes,yes,3,0,16
+Urban,Greater than 3,Living together,higher education,higher education,health,other,<15 min.,<2 hours,0,no,yes,yes,2,4,14
+Urban,Greater than 3,Living together,higher education,higher education,services,services,<15 min.,5 to 10 hours,0,no,yes,yes,2,6,14
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,30 min. to 1 hour,2 to 5 hours,0,yes,yes,no,4,4,10
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,services,<15 min.,<2 hours,3,no,yes,yes,5,16,5
+Urban,Less than or equal to 3,Living together,higher education,secondary education,health,other,<15 min.,<2 hours,0,no,no,yes,5,4,10
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,2 to 5 hours,0,no,no,yes,1,0,15
+Urban,Greater than 3,Living together,higher education,higher education,health,health,<15 min.,<2 hours,0,no,yes,yes,5,0,15
+Urban,Less than or equal to 3,Living together,higher education,5th to 9th grade,teacher,other,<15 min.,2 to 5 hours,0,no,no,yes,5,2,16
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,0,12
+Rural,Greater than 3,Living together,5th to 9th grade,higher education,services,health,<15 min.,5 to 10 hours,0,yes,yes,yes,5,2,8
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,<2 hours,2,no,yes,yes,5,14,8
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,yes,yes,5,2,11
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,health,services,<15 min.,<2 hours,0,no,no,yes,1,4,15
+Urban,Less than or equal to 3,Apart,secondary education,higher education,services,other,<15 min.,2 to 5 hours,0,yes,yes,yes,5,4,11
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,no,yes,yes,5,16,11
+Urban,Greater than 3,Living together,higher education,higher education,health,services,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,12
+Urban,Greater than 3,Living together,higher education,higher education,services,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,0,17
+Rural,Greater than 3,Living together,higher education,secondary education,teacher,at_home,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,16
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,no,yes,2,0,12
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,yes,yes,5,0,15
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,15 to 30 min.,<2 hours,0,no,yes,no,5,0,6
+Urban,Less than or equal to 3,Living together,higher education,secondary education,teacher,services,<15 min.,5 to 10 hours,0,no,yes,yes,4,2,18
+Rural,Greater than 3,Apart,higher education,higher education,other,teacher,15 to 30 min.,5 to 10 hours,0,no,yes,yes,5,7,15
+Rural,Greater than 3,Living together,secondary education,higher education,services,health,<15 min.,5 to 10 hours,0,yes,yes,yes,5,2,11
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,<15 min.,<2 hours,0,yes,yes,no,2,8,13
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,1,no,yes,yes,3,25,11
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,other,<15 min.,<2 hours,0,no,yes,yes,5,8,12
+Urban,Greater than 3,Living together,higher education,higher education,services,teacher,<15 min.,2 to 5 hours,0,no,yes,yes,5,2,18
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,<2 hours,0,yes,yes,yes,1,0,11
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,at_home,15 to 30 min.,2 to 5 hours,1,yes,no,yes,5,14,9
+Urban,Less than or equal to 3,Apart,higher education,secondary education,other,other,<15 min.,2 to 5 hours,0,yes,yes,yes,5,8,6
+Urban,Less than or equal to 3,Apart,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,0,no,yes,yes,3,12,11
+Urban,Greater than 3,Living together,higher education,secondary education,health,services,<15 min.,>10 hours,0,no,no,yes,2,4,20
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,teacher,other,<15 min.,2 to 5 hours,0,no,yes,no,5,2,14
+Urban,Greater than 3,Living together,higher education,higher education,services,teacher,<15 min.,2 to 5 hours,1,yes,yes,yes,3,2,7
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,4,2,13
+Urban,Less than or equal to 3,Living together,higher education,5th to 9th grade,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,2,13
+Urban,Less than or equal to 3,Apart,higher education,5th to 9th grade,health,health,15 to 30 min.,<2 hours,1,no,no,no,5,6,10
+Urban,Greater than 3,Living together,higher education,higher education,services,services,<15 min.,<2 hours,0,yes,yes,yes,5,0,11
+Urban,Less than or equal to 3,Apart,secondary education,secondary education,other,other,<15 min.,<2 hours,0,no,no,yes,1,6,13
+Urban,Greater than 3,Apart,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,2,8,10
+Urban,Greater than 3,Apart,higher education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,1,0,15
+Urban,Greater than 3,Living together,higher education,higher education,teacher,health,<15 min.,2 to 5 hours,0,no,yes,no,5,4,15
+Urban,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,other,at_home,<15 min.,2 to 5 hours,0,yes,yes,yes,5,2,9
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,2,16
+Rural,Greater than 3,Living together,higher education,higher education,health,teacher,<15 min.,2 to 5 hours,0,no,yes,no,4,6,11
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),services,services,>1 hour,<2 hours,0,yes,yes,yes,5,6,11
+Urban,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,other,services,<15 min.,2 to 5 hours,0,yes,no,yes,1,4,9
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,health,<15 min.,5 to 10 hours,0,yes,yes,yes,4,2,9
+Urban,Less than or equal to 3,Living together,higher education,secondary education,services,services,<15 min.,2 to 5 hours,0,yes,no,yes,2,0,10
+Urban,Less than or equal to 3,Living together,higher education,secondary education,teacher,services,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,1,2,15
+Urban,Greater than 3,Apart,higher education,higher education,other,services,<15 min.,>10 hours,0,no,yes,yes,3,4,12
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),services,other,<15 min.,>10 hours,0,yes,yes,yes,5,4,6
+Rural,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,health,services,15 to 30 min.,2 to 5 hours,0,yes,yes,yes,4,2,8
+Rural,Less than or equal to 3,Living together,secondary education,primary education (4th grade),other,other,15 to 30 min.,>10 hours,0,no,yes,yes,3,12,16
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),other,other,15 to 30 min.,>10 hours,0,no,yes,yes,5,0,15
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,other,other,<15 min.,>10 hours,0,no,no,yes,3,0,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,2 to 5 hours,2,yes,yes,yes,5,2,5
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,no,no,5,2,14
+Urban,Greater than 3,Living together,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,0,yes,yes,yes,5,54,11
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,6,10
+Urban,Greater than 3,Living together,higher education,none,teacher,other,15 to 30 min.,>10 hours,0,no,no,yes,1,8,10
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,>10 hours,0,no,no,yes,3,0,11
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,<2 hours,3,yes,yes,yes,3,2,10
+Urban,Greater than 3,Living together,secondary education,higher education,at_home,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,12,5
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,services,<15 min.,<2 hours,0,yes,yes,yes,3,2,12
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,<15 min.,5 to 10 hours,0,yes,no,yes,5,4,11
+Urban,Less than or equal to 3,Living together,secondary education,5th to 9th grade,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,10,6
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,4,4,15
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,yes,yes,4,2,10
+Urban,Greater than 3,Living together,higher education,higher education,services,services,15 to 30 min.,2 to 5 hours,2,no,no,yes,5,6,8
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,<15 min.,2 to 5 hours,0,no,yes,no,2,4,6
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,no,yes,yes,1,4,14
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,1,no,no,yes,3,12,10
+Urban,Less than or equal to 3,Apart,higher education,higher education,teacher,health,<15 min.,2 to 5 hours,0,no,yes,no,5,18,7
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,5 to 10 hours,0,no,yes,yes,4,0,8
+Urban,Greater than 3,Living together,higher education,secondary education,services,other,<15 min.,<2 hours,0,no,no,yes,1,4,18
+Urban,Less than or equal to 3,Living together,secondary education,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,yes,yes,no,2,4,6
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,teacher,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,0,10
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,health,<15 min.,>10 hours,0,no,yes,yes,4,6,14
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,>10 hours,1,yes,yes,yes,1,2,10
+Rural,Greater than 3,Living together,higher education,secondary education,services,other,15 to 30 min.,<2 hours,0,yes,yes,yes,4,2,15
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,yes,no,5,2,10
+Urban,Greater than 3,Living together,higher education,higher education,other,other,<15 min.,<2 hours,0,no,no,yes,1,6,14
+Urban,Greater than 3,Living together,higher education,secondary education,other,at_home,<15 min.,5 to 10 hours,0,yes,yes,yes,3,0,8
+Urban,Greater than 3,Living together,higher education,higher education,services,services,<15 min.,<2 hours,0,yes,yes,yes,4,14,5
+Urban,Greater than 3,Living together,higher education,higher education,services,teacher,<15 min.,5 to 10 hours,0,no,yes,yes,4,0,17
+Urban,Greater than 3,Living together,higher education,higher education,services,other,<15 min.,<2 hours,0,no,yes,yes,5,4,14
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,0,yes,yes,yes,2,26,6
+Urban,Greater than 3,Apart,secondary education,higher education,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,0,18
+Urban,Greater than 3,Apart,secondary education,secondary education,other,health,<15 min.,>10 hours,0,yes,no,no,4,10,11
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,>10 hours,0,yes,yes,yes,3,8,8
+Urban,Greater than 3,Living together,secondary education,secondary education,services,other,<15 min.,5 to 10 hours,0,no,yes,yes,5,2,18
+Rural,Greater than 3,Living together,higher education,higher education,other,other,>1 hour,>10 hours,0,no,yes,yes,1,6,13
+Urban,Less than or equal to 3,Living together,higher education,higher education,health,health,<15 min.,5 to 10 hours,0,no,yes,yes,4,4,16
+Urban,Less than or equal to 3,Apart,higher education,higher education,teacher,teacher,<15 min.,<2 hours,0,no,no,yes,4,6,19
+Rural,Greater than 3,Living together,secondary education,secondary education,services,other,<15 min.,5 to 10 hours,1,yes,yes,yes,2,0,10
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,<15 min.,2 to 5 hours,1,yes,no,yes,5,6,13
+Urban,Less than or equal to 3,Living together,higher education,5th to 9th grade,teacher,other,<15 min.,<2 hours,0,no,no,yes,3,10,19
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),health,services,<15 min.,2 to 5 hours,0,no,no,yes,5,8,9
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,no,yes,yes,5,2,16
+Urban,Greater than 3,Living together,higher education,higher education,other,teacher,15 to 30 min.,2 to 5 hours,0,no,yes,no,2,2,14
+Urban,Greater than 3,Living together,secondary education,secondary education,other,services,15 to 30 min.,<2 hours,0,no,no,yes,5,0,13
+Rural,Greater than 3,Living together,primary education (4th grade),secondary education,other,other,30 min. to 1 hour,2 to 5 hours,1,no,yes,yes,5,20,8
+Urban,Greater than 3,Living together,secondary education,higher education,other,other,<15 min.,<2 hours,0,no,no,yes,4,6,13
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,services,<15 min.,2 to 5 hours,0,no,no,yes,1,2,15
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,>10 hours,0,no,yes,yes,5,6,15
+Urban,Less than or equal to 3,Living together,5th to 9th grade,higher education,other,health,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,2,13
+Urban,Greater than 3,Living together,higher education,higher education,health,other,<15 min.,<2 hours,0,no,yes,yes,5,18,13
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,5,0,8
+Urban,Greater than 3,Living together,secondary education,higher education,services,services,<15 min.,<2 hours,0,yes,no,yes,5,0,12
+Urban,Less than or equal to 3,Apart,secondary education,higher education,other,other,<15 min.,2 to 5 hours,0,yes,no,yes,1,0,11
+Urban,Greater than 3,Living together,none,primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,3,no,yes,no,5,2,9
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,<15 min.,<2 hours,2,no,yes,yes,4,0,0
+Rural,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,<2 hours,0,no,no,yes,4,8,18
+Rural,Greater than 3,Living together,secondary education,higher education,services,teacher,15 to 30 min.,5 to 10 hours,2,no,yes,yes,5,0,0
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,30 min. to 1 hour,<2 hours,0,no,yes,yes,4,0,0
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,yes,yes,5,12,12
+Urban,Greater than 3,Apart,secondary education,higher education,services,other,<15 min.,<2 hours,0,no,no,yes,5,16,11
+Rural,Greater than 3,Living together,secondary education,higher education,at_home,teacher,>1 hour,2 to 5 hours,0,no,yes,no,5,0,0
+Urban,Greater than 3,Living together,higher education,higher education,services,at_home,<15 min.,5 to 10 hours,0,no,yes,yes,5,0,0
+Rural,Greater than 3,Living together,secondary education,higher education,at_home,other,30 min. to 1 hour,2 to 5 hours,0,no,no,no,5,0,0
+Urban,Greater than 3,Apart,secondary education,secondary education,other,other,15 to 30 min.,<2 hours,2,no,yes,yes,5,0,0
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),services,other,<15 min.,2 to 5 hours,1,no,no,no,5,0,12
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,15 to 30 min.,<2 hours,0,no,no,yes,5,0,15
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,services,15 to 30 min.,>10 hours,0,yes,yes,yes,3,0,0
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,15 to 30 min.,<2 hours,2,no,yes,yes,2,8,9
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,2,11
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,at_home,<15 min.,<2 hours,0,no,no,yes,1,2,13
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,<2 hours,3,no,yes,yes,5,0,0
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,11
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,health,services,<15 min.,2 to 5 hours,3,no,yes,yes,3,0,0
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,2,11
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,<2 hours,0,no,yes,yes,5,0,0
+Urban,Less than or equal to 3,Apart,5th to 9th grade,primary education (4th grade),services,other,>1 hour,<2 hours,3,no,no,yes,5,0,10
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,<2 hours,3,no,no,yes,4,0,0
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,<15 min.,<2 hours,1,no,no,no,5,6,14
+Rural,Greater than 3,Living together,secondary education,secondary education,services,services,15 to 30 min.,5 to 10 hours,2,no,yes,yes,3,8,10
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,at_home,<15 min.,<2 hours,3,no,yes,yes,4,0,0
+Urban,Greater than 3,Living together,higher education,higher education,other,teacher,<15 min.,<2 hours,0,yes,yes,no,4,0,12
+Rural,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,services,<15 min.,2 to 5 hours,0,yes,no,no,1,2,8
+Rural,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,other,other,<15 min.,<2 hours,0,no,no,no,5,8,13
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,30 min. to 1 hour,<2 hours,3,no,yes,no,4,6,10
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,30 min. to 1 hour,<2 hours,0,no,no,no,3,2,15
+Urban,Greater than 3,Living together,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,1,no,yes,yes,5,4,12
+Rural,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,2,no,no,yes,5,0,0
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,2,yes,yes,yes,3,6,7
+Urban,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,other,other,15 to 30 min.,<2 hours,1,no,no,no,5,0,0
+Urban,Greater than 3,Living together,primary education (4th grade),secondary education,at_home,services,<15 min.,<2 hours,0,no,no,yes,2,2,10
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,services,>1 hour,2 to 5 hours,3,no,no,no,5,0,7
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,services,15 to 30 min.,<2 hours,1,no,yes,no,2,16,12
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,4,10
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,health,services,<15 min.,2 to 5 hours,0,no,no,yes,3,0,16
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,4,0,0
+Urban,Greater than 3,Living together,higher education,higher education,health,health,<15 min.,2 to 5 hours,0,no,yes,yes,3,0,14
+Urban,Greater than 3,Living together,secondary education,higher education,other,other,30 min. to 1 hour,<2 hours,2,no,yes,yes,2,0,0
+Urban,Greater than 3,Living together,primary education (4th grade),none,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,3,2,16
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,10
+Urban,Greater than 3,Living together,primary education (4th grade),secondary education,at_home,services,<15 min.,2 to 5 hours,3,no,no,yes,3,0,0
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,4,4,9
+Urban,Less than or equal to 3,Living together,higher education,secondary education,teacher,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,4,4,9
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,2,11
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,4,6
+Rural,Greater than 3,Living together,higher education,5th to 9th grade,teacher,services,<15 min.,<2 hours,0,no,yes,yes,3,10,9
+Urban,Greater than 3,Living together,higher education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,2,4,11
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,10,8
+Urban,Greater than 3,Living together,secondary education,secondary education,services,other,<15 min.,2 to 5 hours,0,no,no,yes,3,2,12
+Urban,Greater than 3,Living together,5th to 9th grade,higher education,services,services,<15 min.,2 to 5 hours,0,no,yes,no,5,0,17
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,56,8
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,14,12
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,4,12,11
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,services,services,<15 min.,<2 hours,0,no,yes,yes,3,2,11
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,5,0,15
+Urban,Greater than 3,Apart,secondary education,secondary education,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,6,9
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,other,<15 min.,2 to 5 hours,0,no,no,no,3,4,10
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,services,services,<15 min.,2 to 5 hours,0,no,no,yes,2,10,13
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,<15 min.,2 to 5 hours,0,no,no,yes,3,0,9
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,12,8
+Rural,Greater than 3,Living together,secondary education,secondary education,services,services,<15 min.,<2 hours,0,no,yes,yes,5,8,10
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,15 to 30 min.,<2 hours,0,no,no,yes,3,0,14
+Urban,Less than or equal to 3,Living together,5th to 9th grade,higher education,services,services,<15 min.,2 to 5 hours,0,no,no,yes,5,0,15
+Urban,Greater than 3,Living together,higher education,higher education,services,teacher,<15 min.,<2 hours,0,no,no,yes,5,4,16
+Rural,Less than or equal to 3,Living together,secondary education,secondary education,teacher,other,30 min. to 1 hour,<2 hours,0,no,yes,yes,3,8,10
+Urban,Greater than 3,Living together,higher education,higher education,services,teacher,15 to 30 min.,<2 hours,1,no,yes,yes,2,24,18
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,no,yes,yes,3,0,10
+Urban,Greater than 3,Living together,higher education,secondary education,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,2,2,16
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,<15 min.,2 to 5 hours,0,yes,yes,no,4,6,10
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,yes,no,1,4,10
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,yes,yes,3,18,6
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,15 to 30 min.,>10 hours,0,no,yes,yes,5,6,11
+Urban,Greater than 3,Living together,secondary education,higher education,at_home,services,<15 min.,5 to 10 hours,1,no,yes,yes,5,28,9
+Urban,Greater than 3,Apart,secondary education,primary education (4th grade),services,other,<15 min.,2 to 5 hours,3,no,yes,yes,4,5,7
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,2 to 5 hours,0,no,no,yes,1,10,13
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,0,no,yes,no,5,6,10
+Rural,Greater than 3,Living together,higher education,secondary education,teacher,other,15 to 30 min.,5 to 10 hours,0,no,yes,yes,4,6,7
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,>10 hours,0,no,yes,yes,3,10,8
+Urban,Less than or equal to 3,Living together,higher education,higher education,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,13,13
+Urban,Greater than 3,Apart,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,yes,yes,yes,4,0,14
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,<15 min.,2 to 5 hours,1,no,yes,yes,5,15,8
+Rural,Less than or equal to 3,Living together,higher education,higher education,services,other,<15 min.,<2 hours,0,no,yes,no,3,12,10
+Urban,Less than or equal to 3,Living together,secondary education,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,1,2,15
+Urban,Greater than 3,Living together,higher education,secondary education,other,other,<15 min.,2 to 5 hours,2,no,no,yes,1,22,4
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,services,health,<15 min.,2 to 5 hours,1,no,yes,yes,4,13,8
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,other,15 to 30 min.,<2 hours,0,no,yes,no,3,3,8
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,at_home,<15 min.,5 to 10 hours,0,no,yes,yes,4,4,10
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),at_home,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,2,6
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,5 to 10 hours,1,no,yes,no,5,0,0
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,services,teacher,<15 min.,2 to 5 hours,0,yes,no,yes,3,2,17
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,4,0,13
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,0,14
+Rural,Greater than 3,Living together,secondary education,primary education (4th grade),other,other,<15 min.,2 to 5 hours,1,no,no,yes,4,16,7
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,3,10,15
+Urban,Less than or equal to 3,Living together,5th to 9th grade,secondary education,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,3,2,12
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,>1 hour,2 to 5 hours,0,yes,yes,yes,3,14,9
+Urban,Greater than 3,Apart,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,3,10,12
+Urban,Less than or equal to 3,Living together,higher education,secondary education,health,other,<15 min.,2 to 5 hours,0,no,no,yes,3,14,14
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,4,11
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,yes,yes,yes,2,14,9
+Urban,Greater than 3,Living together,higher education,higher education,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,2,13
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,18,6
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,at_home,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,2,10,10
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,4,13
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,no,yes,5,20,12
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),at_home,services,30 min. to 1 hour,2 to 5 hours,0,no,no,no,3,2,11
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,services,<15 min.,2 to 5 hours,1,no,no,yes,2,0,0
+Urban,Less than or equal to 3,Living together,higher education,secondary education,health,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,14,12
+Rural,Less than or equal to 3,Apart,higher education,higher education,teacher,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,4,2,12
+Urban,Less than or equal to 3,Living together,higher education,secondary education,teacher,other,<15 min.,<2 hours,0,no,no,yes,3,0,0
+Urban,Greater than 3,Living together,higher education,higher education,services,services,<15 min.,<2 hours,0,no,no,yes,5,0,12
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,5 to 10 hours,0,no,yes,yes,3,0,0
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,30 min. to 1 hour,<2 hours,0,no,no,yes,4,6,18
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,15 to 30 min.,<2 hours,0,no,no,yes,2,4,13
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),services,services,<15 min.,<2 hours,3,no,no,yes,1,16,8
+Rural,Less than or equal to 3,Living together,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,1,no,yes,yes,5,8,5
+Urban,Greater than 3,Living together,none,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,no,yes,5,0,15
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,other,15 to 30 min.,<2 hours,1,no,no,yes,5,0,8
+Urban,Greater than 3,Living together,secondary education,secondary education,at_home,other,30 min. to 1 hour,2 to 5 hours,0,yes,yes,yes,2,6,10
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,services,<15 min.,<2 hours,1,no,no,yes,5,4,8
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,<2 hours,0,no,no,no,3,0,8
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,no,yes,5,0,12
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),health,other,15 to 30 min.,<2 hours,1,no,yes,yes,5,2,8
+Urban,Less than or equal to 3,Living together,higher education,5th to 9th grade,teacher,services,<15 min.,>10 hours,0,no,yes,yes,4,6,13
+Urban,Less than or equal to 3,Apart,higher education,secondary education,services,at_home,<15 min.,2 to 5 hours,0,no,yes,yes,1,12,11
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,8,14
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,>10 hours,0,no,no,yes,2,0,0
+Urban,Greater than 3,Living together,higher education,secondary education,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,2,21,18
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,2,8
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,no,no,no,3,1,12
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,5 to 10 hours,0,no,no,no,4,4,9
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,services,<15 min.,5 to 10 hours,0,no,yes,yes,3,0,0
+Rural,Less than or equal to 3,Apart,secondary education,higher education,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,13,17
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),services,other,<15 min.,2 to 5 hours,0,no,no,yes,5,2,10
+Rural,Greater than 3,Living together,higher education,higher education,teacher,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,4,8,11
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,10,10
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,3,0,0
+Urban,Greater than 3,Living together,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,2,no,yes,yes,5,15,9
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,services,<15 min.,>10 hours,0,no,yes,yes,2,4,14
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,no,yes,no,3,2,11
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,at_home,<15 min.,2 to 5 hours,0,no,yes,no,1,2,14
+Urban,Greater than 3,Living together,5th to 9th grade,higher education,at_home,health,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,2,10
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,0,yes,yes,yes,5,6,12
+Rural,Greater than 3,Apart,secondary education,5th to 9th grade,other,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,75,9
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,15 to 30 min.,<2 hours,0,no,no,yes,3,22,9
+Urban,Greater than 3,Living together,higher education,higher education,health,health,<15 min.,2 to 5 hours,1,yes,yes,yes,4,15,8
+Urban,Less than or equal to 3,Living together,higher education,secondary education,teacher,services,15 to 30 min.,<2 hours,0,no,no,yes,1,8,10
+Urban,Less than or equal to 3,Apart,higher education,primary education (4th grade),services,other,15 to 30 min.,<2 hours,0,no,no,yes,5,30,8
+Urban,Less than or equal to 3,Apart,secondary education,5th to 9th grade,teacher,services,<15 min.,<2 hours,1,no,no,yes,3,19,10
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,>10 hours,0,no,yes,no,3,1,12
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,yes,no,yes,4,4,10
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,4,11
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,2,11
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,at_home,<15 min.,5 to 10 hours,0,no,yes,yes,2,5,19
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),services,teacher,<15 min.,5 to 10 hours,0,no,yes,yes,3,6,12
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,services,<15 min.,5 to 10 hours,0,no,no,yes,2,6,14
+Urban,Less than or equal to 3,Apart,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,no,yes,yes,2,9,15
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,11,11
+Urban,Greater than 3,Living together,higher education,secondary education,health,services,<15 min.,5 to 10 hours,0,no,yes,yes,3,0,15
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),services,at_home,<15 min.,2 to 5 hours,1,no,no,yes,5,12,13
+Rural,Less than or equal to 3,Living together,secondary education,primary education (4th grade),services,other,15 to 30 min.,>10 hours,0,no,yes,no,3,6,18
+Rural,Less than or equal to 3,Living together,secondary education,5th to 9th grade,services,other,15 to 30 min.,5 to 10 hours,0,no,yes,yes,4,8,14
+Urban,Greater than 3,Living together,secondary education,secondary education,health,other,<15 min.,<2 hours,0,no,yes,yes,5,4,11
+Urban,Greater than 3,Living together,higher education,higher education,health,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,2,0,0
+Urban,Less than or equal to 3,Living together,higher education,secondary education,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,2,10,8
+Urban,Greater than 3,Living together,higher education,secondary education,other,other,<15 min.,>10 hours,0,no,yes,yes,3,0,14
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,teacher,<15 min.,<2 hours,0,no,yes,yes,1,5,16
+Urban,Less than or equal to 3,Apart,higher education,higher education,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,4,14,11
+Urban,Less than or equal to 3,Living together,higher education,higher education,other,teacher,15 to 30 min.,<2 hours,0,no,no,yes,5,0,10
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,other,other,15 to 30 min.,5 to 10 hours,0,no,yes,yes,3,0,14
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,health,health,<15 min.,>10 hours,0,no,yes,yes,5,0,18
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,1,no,yes,yes,3,20,13
+Urban,Greater than 3,Living together,5th to 9th grade,higher education,services,at_home,<15 min.,2 to 5 hours,1,no,yes,yes,3,8,12
+Urban,Greater than 3,Apart,secondary education,5th to 9th grade,services,other,<15 min.,<2 hours,0,no,no,no,5,0,18
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,15 to 30 min.,<2 hours,1,no,yes,yes,4,38,8
+Rural,Greater than 3,Living together,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,1,no,no,no,5,0,12
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,1,yes,yes,yes,3,18,10
+Urban,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,services,services,<15 min.,2 to 5 hours,1,no,no,no,3,0,0
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,2,20,13
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,services,<15 min.,2 to 5 hours,1,no,no,yes,4,3,11
+Urban,Less than or equal to 3,Living together,secondary education,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,1,no,yes,yes,1,22,11
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,health,<15 min.,5 to 10 hours,2,no,no,yes,3,14,13
+Rural,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,<15 min.,5 to 10 hours,1,no,no,yes,3,40,11
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,0,0
+Urban,Greater than 3,Living together,higher education,secondary education,other,other,<15 min.,5 to 10 hours,0,no,yes,yes,5,9,9
+Rural,Greater than 3,Living together,secondary education,higher education,at_home,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,0,10
+Urban,Greater than 3,Living together,higher education,higher education,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,2,11
+Urban,Greater than 3,Apart,higher education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,5,23,13
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,no,3,12,9
+Rural,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,5 to 10 hours,0,no,yes,yes,3,3,11
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),services,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,1,15
+Urban,Less than or equal to 3,Living together,none,5th to 9th grade,at_home,at_home,15 to 30 min.,5 to 10 hours,0,no,no,yes,2,0,15
+Urban,Greater than 3,Living together,higher education,higher education,other,other,<15 min.,5 to 10 hours,0,no,no,yes,3,3,11
+Urban,Greater than 3,Living together,secondary education,secondary education,other,services,<15 min.,<2 hours,0,no,no,yes,5,3,16
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,>1 hour,<2 hours,0,no,yes,yes,4,8,10
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,<15 min.,5 to 10 hours,0,no,yes,yes,4,7,9
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,15 to 30 min.,5 to 10 hours,0,no,yes,yes,4,4,14
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,>10 hours,0,no,yes,yes,5,2,8
+Rural,Greater than 3,Living together,5th to 9th grade,higher education,at_home,other,<15 min.,5 to 10 hours,0,no,yes,yes,5,7,14
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,no,yes,4,0,0
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,2,0,0
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,15 to 30 min.,>10 hours,0,no,no,no,4,0,0
+Urban,Greater than 3,Living together,secondary education,higher education,services,other,<15 min.,5 to 10 hours,0,no,no,yes,5,16,15
+Rural,Greater than 3,Apart,secondary education,primary education (4th grade),services,at_home,<15 min.,5 to 10 hours,1,no,no,no,5,12,13
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,2,0,0
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,services,services,<15 min.,>10 hours,0,no,yes,yes,1,7,17
+Rural,Greater than 3,Apart,secondary education,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,2,4,10
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,services,<15 min.,5 to 10 hours,1,no,no,yes,3,4,11
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,<15 min.,2 to 5 hours,1,no,yes,yes,2,0,0
+Urban,Less than or equal to 3,Living together,secondary education,higher education,services,other,<15 min.,2 to 5 hours,0,no,no,yes,5,11,15
+Urban,Greater than 3,Apart,5th to 9th grade,5th to 9th grade,at_home,at_home,<15 min.,2 to 5 hours,1,no,yes,yes,4,0,0
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,other,<15 min.,5 to 10 hours,0,no,yes,yes,3,4,10
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,services,<15 min.,5 to 10 hours,0,no,no,yes,1,7,14
+Rural,Greater than 3,Living together,higher education,secondary education,teacher,services,<15 min.,5 to 10 hours,0,no,no,yes,4,9,16
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,5 to 10 hours,0,no,yes,yes,5,0,9
+Urban,Greater than 3,Living together,higher education,secondary education,health,other,<15 min.,5 to 10 hours,0,no,yes,yes,4,0,15
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,15 to 30 min.,<2 hours,1,no,yes,yes,5,10,13
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,30 min. to 1 hour,2 to 5 hours,3,no,no,yes,2,8,8
+Urban,Greater than 3,Living together,secondary education,secondary education,health,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,3,2,13
+Urban,Less than or equal to 3,Living together,primary education (4th grade),secondary education,at_home,services,<15 min.,<2 hours,1,no,no,yes,3,7,8
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,30 min. to 1 hour,<2 hours,1,no,yes,yes,5,4,8
+Rural,Greater than 3,Living together,higher education,secondary education,services,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,2,4,11
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,yes,no,5,0,9
+Rural,Greater than 3,Living together,higher education,higher education,teacher,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,4,13
+Urban,Less than or equal to 3,Apart,secondary education,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,0,no,no,no,5,2,11
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,services,15 to 30 min.,<2 hours,0,no,no,yes,3,4,10
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,15 to 30 min.,5 to 10 hours,0,no,no,yes,4,0,16
+Rural,Less than or equal to 3,Apart,primary education (4th grade),higher education,at_home,other,30 min. to 1 hour,2 to 5 hours,0,no,no,no,5,0,13
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,2 to 5 hours,1,no,no,no,5,2,12
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,3,0,10
+Urban,Less than or equal to 3,Living together,higher education,higher education,at_home,at_home,<15 min.,2 to 5 hours,0,no,yes,yes,1,0,15
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,services,15 to 30 min.,2 to 5 hours,0,no,no,no,3,0,12
+Rural,Greater than 3,Living together,primary education (4th grade),secondary education,at_home,other,15 to 30 min.,2 to 5 hours,0,no,yes,no,3,4,10
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,services,15 to 30 min.,5 to 10 hours,0,no,no,yes,5,0,13
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,30 min. to 1 hour,<2 hours,1,no,yes,yes,1,0,0
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,services,15 to 30 min.,<2 hours,0,no,yes,yes,4,0,10
+Rural,Greater than 3,Living together,higher education,higher education,other,teacher,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,5,10,11
+Urban,Less than or equal to 3,Living together,secondary education,5th to 9th grade,services,services,15 to 30 min.,2 to 5 hours,2,no,no,no,3,4,9
+Rural,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,at_home,services,30 min. to 1 hour,<2 hours,0,no,yes,yes,3,3,12
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,at_home,<15 min.,5 to 10 hours,0,no,no,no,3,8,11
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,other,<15 min.,<2 hours,0,no,no,yes,1,14,5
+Rural,Less than or equal to 3,Living together,higher education,higher education,other,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,1,0,19
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,>1 hour,5 to 10 hours,0,no,no,yes,4,2,10
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,health,other,15 to 30 min.,5 to 10 hours,2,no,yes,yes,3,4,15
+Rural,Less than or equal to 3,Living together,higher education,higher education,teacher,services,<15 min.,2 to 5 hours,0,no,no,yes,2,4,10
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,no,yes,1,0,15
+Rural,Greater than 3,Living together,secondary education,primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,17,10
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,no,no,yes,2,4,14
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,<2 hours,0,no,no,yes,5,5,7
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,3,2,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,15 to 30 min.,<2 hours,1,no,no,no,5,0,0
+Rural,Greater than 3,Living together,higher education,5th to 9th grade,other,other,15 to 30 min.,<2 hours,1,no,no,no,3,14,5
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,15 to 30 min.,5 to 10 hours,0,no,no,no,4,2,10
+Rural,Greater than 3,Living together,higher education,higher education,teacher,at_home,30 min. to 1 hour,<2 hours,0,no,yes,yes,5,7,6
+Rural,Greater than 3,Living together,5th to 9th grade,secondary education,services,other,<15 min.,5 to 10 hours,1,no,no,yes,5,0,0
+Urban,Less than or equal to 3,Living together,secondary education,primary education (4th grade),teacher,services,<15 min.,2 to 5 hours,0,no,yes,yes,1,0,8
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,1,no,no,no,5,0,0
+Urban,Less than or equal to 3,Apart,5th to 9th grade,5th to 9th grade,services,services,<15 min.,2 to 5 hours,2,no,yes,no,4,11,9
+Urban,Less than or equal to 3,Living together,secondary education,primary education (4th grade),services,services,15 to 30 min.,<2 hours,0,no,no,yes,2,3,16
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,<2 hours,3,no,no,no,3,3,7
+Rural,Less than or equal to 3,Living together,secondary education,5th to 9th grade,services,other,30 min. to 1 hour,<2 hours,0,no,no,yes,5,0,10
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,at_home,<15 min.,<2 hours,0,no,no,yes,5,5,9
+Urban,Greater than 3,Apart,higher education,higher education,at_home,teacher,15 to 30 min.,2 to 5 hours,0,yes,no,no,3,4,11
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,2,11
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,0,yes,no,yes,3,6,12
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,health,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,0,14
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,yes,no,5,0,13
+Urban,Less than or equal to 3,Living together,higher education,secondary education,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,6,13
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,3,0,13
+Urban,Greater than 3,Apart,higher education,higher education,other,teacher,15 to 30 min.,2 to 5 hours,0,yes,yes,no,1,2,13
+Urban,Less than or equal to 3,Apart,secondary education,5th to 9th grade,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,0,17
+Urban,Greater than 3,Living together,secondary education,higher education,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,13
+Urban,Greater than 3,Living together,higher education,higher education,teacher,health,<15 min.,2 to 5 hours,0,no,yes,yes,2,2,14
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,other,30 min. to 1 hour,5 to 10 hours,0,no,yes,yes,4,0,13
+Urban,Less than or equal to 3,Living together,higher education,higher education,health,services,<15 min.,<2 hours,0,no,yes,yes,5,0,12
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,3,0,13
+Urban,Greater than 3,Apart,5th to 9th grade,5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,no,yes,yes,3,0,15
+Urban,Greater than 3,Living together,higher education,higher education,health,other,<15 min.,<2 hours,0,no,yes,yes,2,6,17
+Urban,Greater than 3,Living together,higher education,higher education,services,services,<15 min.,5 to 10 hours,0,no,yes,yes,2,10,14
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,30 min. to 1 hour,2 to 5 hours,0,yes,yes,no,4,2,14
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,services,<15 min.,<2 hours,3,no,yes,yes,5,2,7
+Urban,Less than or equal to 3,Living together,higher education,secondary education,health,other,<15 min.,<2 hours,0,no,no,yes,5,6,12
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,2 to 5 hours,0,no,no,yes,1,0,14
+Urban,Greater than 3,Living together,higher education,higher education,health,health,<15 min.,<2 hours,0,no,yes,yes,5,0,12
+Urban,Less than or equal to 3,Living together,higher education,5th to 9th grade,teacher,other,<15 min.,2 to 5 hours,0,no,no,yes,5,0,14
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,2,10
+Rural,Greater than 3,Living together,5th to 9th grade,higher education,services,health,<15 min.,5 to 10 hours,0,yes,yes,yes,5,2,10
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,<2 hours,0,no,yes,yes,5,6,12
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,yes,yes,5,8,12
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,health,services,<15 min.,<2 hours,0,no,no,yes,1,0,11
+Urban,Less than or equal to 3,Apart,secondary education,higher education,services,other,<15 min.,2 to 5 hours,0,yes,yes,yes,5,2,13
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,no,yes,yes,5,4,12
+Urban,Greater than 3,Living together,higher education,higher education,health,services,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,11
+Urban,Greater than 3,Living together,higher education,higher education,services,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,2,15
+Rural,Greater than 3,Living together,higher education,secondary education,teacher,at_home,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,15
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,no,yes,2,0,12
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,yes,yes,5,4,12
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,15 to 30 min.,<2 hours,0,no,yes,no,5,4,11
+Urban,Less than or equal to 3,Living together,higher education,secondary education,teacher,services,<15 min.,5 to 10 hours,0,no,yes,yes,4,0,14
+Rural,Greater than 3,Apart,higher education,higher education,other,teacher,15 to 30 min.,5 to 10 hours,0,no,yes,yes,5,4,13
+Rural,Greater than 3,Living together,secondary education,higher education,services,health,<15 min.,5 to 10 hours,0,yes,yes,yes,5,2,12
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,<15 min.,<2 hours,0,yes,yes,no,2,8,12
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,3,16,10
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,other,<15 min.,<2 hours,0,no,yes,yes,5,8,11
+Urban,Greater than 3,Living together,higher education,higher education,services,teacher,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,15
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,<2 hours,0,yes,yes,yes,1,0,10
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,at_home,15 to 30 min.,2 to 5 hours,1,yes,no,yes,5,14,11
+Urban,Less than or equal to 3,Apart,higher education,secondary education,other,other,<15 min.,2 to 5 hours,0,yes,yes,yes,5,4,11
+Urban,Less than or equal to 3,Apart,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,0,no,yes,yes,3,6,13
+Urban,Greater than 3,Living together,higher education,secondary education,health,services,<15 min.,>10 hours,0,no,no,yes,2,2,17
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,teacher,other,<15 min.,2 to 5 hours,0,no,yes,no,5,4,13
+Urban,Greater than 3,Living together,higher education,higher education,services,teacher,<15 min.,2 to 5 hours,0,yes,yes,yes,3,2,12
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,4,0,13
+Urban,Less than or equal to 3,Living together,higher education,5th to 9th grade,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,16
+Urban,Less than or equal to 3,Apart,higher education,5th to 9th grade,health,health,15 to 30 min.,<2 hours,0,no,no,no,5,4,9
+Urban,Greater than 3,Living together,higher education,higher education,services,services,<15 min.,<2 hours,0,yes,yes,yes,5,0,12
+Urban,Less than or equal to 3,Apart,secondary education,secondary education,other,other,<15 min.,<2 hours,0,no,no,yes,1,0,13
+Urban,Greater than 3,Apart,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,2,2,12
+Urban,Greater than 3,Apart,higher education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,1,0,15
+Urban,Greater than 3,Living together,higher education,higher education,teacher,health,<15 min.,2 to 5 hours,0,no,yes,no,5,8,16
+Urban,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,other,at_home,<15 min.,2 to 5 hours,0,yes,yes,yes,5,0,14
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,2,16
+Rural,Greater than 3,Living together,higher education,higher education,health,teacher,<15 min.,2 to 5 hours,0,no,yes,no,4,0,16
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),services,services,>1 hour,<2 hours,0,yes,yes,yes,5,0,16
+Urban,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,other,services,<15 min.,2 to 5 hours,0,yes,no,yes,1,0,10
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,health,<15 min.,5 to 10 hours,0,yes,yes,yes,4,0,13
+Urban,Less than or equal to 3,Living together,higher education,secondary education,services,services,<15 min.,2 to 5 hours,0,yes,no,yes,2,0,12
+Urban,Less than or equal to 3,Living together,higher education,secondary education,teacher,services,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,1,2,16
+Urban,Greater than 3,Apart,higher education,higher education,other,services,<15 min.,>10 hours,0,no,yes,yes,3,0,12
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),services,other,<15 min.,>10 hours,0,yes,yes,yes,5,0,10
+Rural,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,health,services,15 to 30 min.,2 to 5 hours,0,yes,yes,yes,4,0,11
+Rural,Less than or equal to 3,Living together,secondary education,primary education (4th grade),other,other,15 to 30 min.,>10 hours,0,no,yes,yes,3,6,15
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),other,other,15 to 30 min.,>10 hours,0,no,yes,yes,5,2,11
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,other,other,<15 min.,>10 hours,0,no,no,yes,3,0,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,yes,yes,yes,5,2,11
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,no,no,5,0,14
+Urban,Greater than 3,Living together,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,0,yes,yes,yes,5,4,11
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,11
+Urban,Greater than 3,Living together,higher education,none,teacher,other,15 to 30 min.,>10 hours,0,no,no,yes,1,0,11
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,>10 hours,0,no,no,yes,3,1,13
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,<2 hours,3,yes,yes,yes,3,0,10
+Urban,Greater than 3,Living together,secondary education,higher education,at_home,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,14,11
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,services,<15 min.,<2 hours,0,yes,yes,yes,3,0,12
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,<15 min.,5 to 10 hours,0,yes,no,yes,5,2,9
+Urban,Less than or equal to 3,Living together,secondary education,5th to 9th grade,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,4,11
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,4,2,13
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,yes,yes,4,2,12
+Urban,Greater than 3,Living together,higher education,higher education,services,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,4,12
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,<15 min.,2 to 5 hours,0,no,yes,no,2,6,11
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,no,yes,yes,1,4,15
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,3,6,11
+Urban,Less than or equal to 3,Apart,higher education,higher education,teacher,health,<15 min.,2 to 5 hours,0,no,yes,no,5,6,10
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,5 to 10 hours,0,no,yes,yes,4,2,11
+Urban,Greater than 3,Living together,higher education,secondary education,services,other,<15 min.,<2 hours,0,no,no,yes,1,6,13
+Urban,Less than or equal to 3,Living together,secondary education,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,yes,yes,no,2,0,12
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,teacher,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,2,14
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,health,<15 min.,>10 hours,0,no,yes,yes,4,2,12
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,>10 hours,0,yes,yes,yes,1,4,13
+Rural,Greater than 3,Living together,higher education,secondary education,services,other,15 to 30 min.,<2 hours,0,yes,yes,yes,4,6,11
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,yes,no,5,0,12
+Urban,Greater than 3,Living together,higher education,higher education,other,other,<15 min.,<2 hours,0,no,no,yes,1,4,13
+Urban,Greater than 3,Living together,higher education,secondary education,other,at_home,<15 min.,5 to 10 hours,0,yes,yes,yes,3,2,13
+Urban,Greater than 3,Living together,higher education,higher education,services,services,<15 min.,<2 hours,0,yes,yes,yes,4,12,8
+Urban,Greater than 3,Living together,higher education,higher education,services,teacher,<15 min.,5 to 10 hours,0,no,yes,yes,4,0,16
+Urban,Greater than 3,Living together,higher education,higher education,services,other,<15 min.,<2 hours,0,no,yes,yes,5,2,12
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,0,yes,yes,yes,2,16,10
+Urban,Greater than 3,Apart,secondary education,higher education,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,0,16
+Urban,Greater than 3,Apart,secondary education,secondary education,other,health,<15 min.,>10 hours,0,yes,no,no,4,10,10
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,>10 hours,0,yes,yes,yes,3,4,10
+Urban,Greater than 3,Living together,secondary education,secondary education,services,other,<15 min.,5 to 10 hours,0,no,yes,yes,5,4,14
+Rural,Greater than 3,Living together,higher education,higher education,other,other,>1 hour,>10 hours,0,no,yes,yes,1,8,11
+Urban,Less than or equal to 3,Living together,higher education,higher education,health,health,<15 min.,5 to 10 hours,0,no,yes,yes,4,2,14
+Urban,Less than or equal to 3,Apart,higher education,higher education,teacher,teacher,<15 min.,<2 hours,0,no,no,yes,4,4,14
+Rural,Greater than 3,Living together,secondary education,secondary education,services,other,<15 min.,5 to 10 hours,0,yes,yes,yes,2,4,11
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,<15 min.,2 to 5 hours,1,yes,no,yes,5,12,10
+Urban,Less than or equal to 3,Living together,higher education,5th to 9th grade,teacher,other,<15 min.,<2 hours,0,no,no,yes,3,10,18
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),health,services,<15 min.,2 to 5 hours,0,no,no,yes,5,4,10
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,no,yes,yes,5,6,14
+Urban,Greater than 3,Living together,higher education,higher education,other,teacher,15 to 30 min.,2 to 5 hours,0,no,yes,no,2,4,16
+Urban,Greater than 3,Living together,secondary education,secondary education,other,services,15 to 30 min.,<2 hours,0,no,no,yes,5,6,15
+Rural,Greater than 3,Living together,primary education (4th grade),secondary education,other,other,30 min. to 1 hour,2 to 5 hours,1,no,yes,yes,5,14,11
+Urban,Greater than 3,Living together,secondary education,higher education,other,other,<15 min.,<2 hours,0,no,no,yes,4,2,14
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,services,<15 min.,2 to 5 hours,0,no,no,yes,1,0,14
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,>10 hours,0,no,yes,yes,5,6,13
+Urban,Less than or equal to 3,Living together,5th to 9th grade,higher education,other,health,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,2,13
+Urban,Greater than 3,Living together,higher education,higher education,health,other,<15 min.,<2 hours,0,no,yes,yes,5,4,13
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,5,0,11
+Urban,Greater than 3,Living together,secondary education,higher education,services,services,<15 min.,<2 hours,0,yes,no,yes,5,2,9
+Urban,Less than or equal to 3,Apart,secondary education,higher education,other,other,<15 min.,2 to 5 hours,0,yes,no,yes,1,0,11
+Urban,Greater than 3,Living together,none,primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,2,no,yes,no,5,0,11
+Rural,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,<2 hours,0,no,no,yes,4,8,15
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,15 to 30 min.,5 to 10 hours,0,no,yes,yes,1,4,13
+Rural,Greater than 3,Living together,secondary education,higher education,services,teacher,15 to 30 min.,5 to 10 hours,0,no,yes,yes,5,0,12
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,other,<15 min.,2 to 5 hours,3,no,yes,yes,5,10,8
+Urban,Less than or equal to 3,Apart,5th to 9th grade,primary education (4th grade),other,other,30 min. to 1 hour,<2 hours,0,no,yes,yes,5,8,11
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,30 min. to 1 hour,<2 hours,0,no,yes,yes,4,6,13
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,yes,yes,5,2,12
+Urban,Greater than 3,Apart,secondary education,higher education,services,other,<15 min.,<2 hours,0,no,no,yes,5,12,14
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,>1 hour,<2 hours,0,no,no,no,2,4,11
+Urban,Greater than 3,Apart,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,1,no,no,no,5,12,11
+Rural,Greater than 3,Living together,secondary education,higher education,at_home,teacher,>1 hour,2 to 5 hours,0,no,yes,no,5,2,11
+Urban,Greater than 3,Living together,higher education,higher education,services,at_home,<15 min.,5 to 10 hours,0,no,yes,yes,5,4,15
+Rural,Greater than 3,Living together,secondary education,higher education,at_home,other,30 min. to 1 hour,2 to 5 hours,0,no,no,no,5,2,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,>1 hour,2 to 5 hours,0,no,yes,no,3,0,13
+Urban,Less than or equal to 3,Living together,secondary education,primary education (4th grade),services,services,15 to 30 min.,<2 hours,0,no,no,yes,4,2,12
+Urban,Greater than 3,Apart,secondary education,5th to 9th grade,other,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,10,11
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,15 to 30 min.,<2 hours,0,no,yes,no,1,8,11
+Urban,Greater than 3,Apart,secondary education,secondary education,other,other,15 to 30 min.,<2 hours,0,no,yes,yes,5,4,10
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),services,other,<15 min.,2 to 5 hours,2,no,no,no,5,0,10
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,15 to 30 min.,<2 hours,0,no,no,yes,5,6,14
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,30 min. to 1 hour,<2 hours,1,no,no,yes,1,2,9
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,services,15 to 30 min.,>10 hours,0,yes,yes,yes,3,6,11
+Urban,Greater than 3,Apart,secondary education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,no,no,1,24,9
+Urban,Greater than 3,Living together,higher education,higher education,services,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,0,13
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,15 to 30 min.,<2 hours,0,no,yes,yes,2,4,11
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,2,13
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,at_home,<15 min.,<2 hours,0,no,no,yes,1,4,11
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,yes,yes,5,22,6
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,12
+Urban,Less than or equal to 3,Apart,5th to 9th grade,primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,0,no,yes,yes,5,0,10
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,health,services,<15 min.,2 to 5 hours,1,no,yes,yes,3,2,11
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,6,13
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,services,<15 min.,2 to 5 hours,0,no,no,no,1,6,11
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,<2 hours,0,no,yes,yes,5,16,8
+Urban,Less than or equal to 3,Apart,5th to 9th grade,primary education (4th grade),services,other,>1 hour,<2 hours,0,no,no,yes,5,0,11
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,<2 hours,2,no,no,yes,4,0,0
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,<15 min.,<2 hours,1,no,no,no,5,6,10
+Rural,Greater than 3,Living together,secondary education,secondary education,services,services,15 to 30 min.,5 to 10 hours,0,no,yes,yes,3,2,13
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,at_home,<15 min.,<2 hours,0,no,yes,yes,4,6,11
+Urban,Greater than 3,Living together,higher education,higher education,other,teacher,<15 min.,<2 hours,0,yes,yes,no,4,0,13
+Rural,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,services,<15 min.,2 to 5 hours,0,yes,no,no,1,0,8
+Rural,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,other,other,<15 min.,<2 hours,3,no,no,no,5,14,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,30 min. to 1 hour,<2 hours,3,no,yes,no,4,6,11
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,30 min. to 1 hour,<2 hours,0,no,no,no,3,4,11
+Urban,Greater than 3,Living together,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,1,no,yes,yes,5,0,1
+Urban,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,health,services,15 to 30 min.,<2 hours,2,no,no,yes,5,0,10
+Rural,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,1,no,no,yes,5,8,9
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,2,yes,yes,yes,3,4,8
+Urban,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,other,other,15 to 30 min.,<2 hours,0,no,no,no,5,2,10
+Urban,Greater than 3,Living together,primary education (4th grade),secondary education,at_home,services,<15 min.,<2 hours,1,no,no,yes,2,2,8
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,services,>1 hour,2 to 5 hours,0,no,no,no,5,0,8
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,services,15 to 30 min.,<2 hours,3,no,yes,no,2,10,8
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,0,11
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,health,services,<15 min.,2 to 5 hours,0,no,no,yes,3,0,18
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,4,0,13
+Urban,Greater than 3,Living together,higher education,higher education,health,health,<15 min.,2 to 5 hours,0,no,yes,yes,3,0,17
+Urban,Greater than 3,Living together,secondary education,higher education,other,other,30 min. to 1 hour,<2 hours,1,no,yes,yes,2,4,10
+Urban,Greater than 3,Living together,primary education (4th grade),none,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,3,0,18
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,10
+Urban,Greater than 3,Living together,primary education (4th grade),secondary education,at_home,services,<15 min.,2 to 5 hours,0,no,no,yes,3,0,13
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,4,0,15
+Urban,Less than or equal to 3,Living together,higher education,secondary education,teacher,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,4,0,11
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,0,14
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,4,10
+Rural,Greater than 3,Living together,higher education,5th to 9th grade,teacher,services,<15 min.,<2 hours,0,no,yes,yes,3,8,11
+Urban,Greater than 3,Living together,higher education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,2,4,13
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,4,11
+Urban,Greater than 3,Living together,secondary education,secondary education,services,other,<15 min.,2 to 5 hours,0,no,no,yes,3,0,13
+Urban,Greater than 3,Living together,5th to 9th grade,higher education,services,services,<15 min.,2 to 5 hours,0,no,yes,no,5,0,17
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,32,14
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,8,16
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,4,6,14
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,services,services,<15 min.,<2 hours,0,no,yes,yes,3,0,11
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,5,0,16
+Urban,Greater than 3,Apart,secondary education,secondary education,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,10,14
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,other,<15 min.,2 to 5 hours,0,no,no,no,3,6,10
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,services,services,<15 min.,2 to 5 hours,0,no,no,yes,2,6,13
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,<15 min.,2 to 5 hours,0,no,no,yes,3,0,12
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,16,12
+Rural,Greater than 3,Living together,secondary education,secondary education,services,services,<15 min.,<2 hours,0,no,yes,yes,5,0,10
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,15 to 30 min.,<2 hours,0,no,no,yes,3,0,12
+Urban,Less than or equal to 3,Living together,5th to 9th grade,higher education,services,services,<15 min.,2 to 5 hours,0,no,no,yes,5,8,16
+Urban,Greater than 3,Living together,higher education,higher education,services,teacher,<15 min.,<2 hours,0,no,no,yes,5,4,14
+Rural,Less than or equal to 3,Living together,secondary education,secondary education,teacher,other,30 min. to 1 hour,<2 hours,0,no,yes,yes,3,16,12
+Urban,Greater than 3,Living together,higher education,higher education,services,teacher,15 to 30 min.,<2 hours,1,no,yes,yes,2,30,16
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,no,yes,yes,3,0,11
+Urban,Greater than 3,Living together,higher education,secondary education,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,2,2,15
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,<15 min.,2 to 5 hours,0,yes,yes,no,4,4,12
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,yes,no,1,0,15
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,yes,yes,3,21,13
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,15 to 30 min.,>10 hours,0,no,yes,yes,5,6,13
+Urban,Greater than 3,Living together,secondary education,higher education,at_home,services,<15 min.,5 to 10 hours,1,no,yes,yes,5,14,8
+Urban,Greater than 3,Apart,secondary education,primary education (4th grade),services,other,<15 min.,2 to 5 hours,0,no,yes,yes,4,2,12
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,2 to 5 hours,0,no,no,yes,1,4,15
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,0,no,yes,no,5,2,13
+Rural,Greater than 3,Living together,higher education,secondary education,teacher,other,15 to 30 min.,5 to 10 hours,0,no,yes,yes,4,0,12
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,>10 hours,0,no,yes,yes,3,4,12
+Urban,Less than or equal to 3,Living together,higher education,higher education,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,15,12
+Urban,Greater than 3,Apart,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,yes,yes,yes,4,0,13
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,10,11
+Rural,Less than or equal to 3,Living together,higher education,higher education,services,other,<15 min.,<2 hours,0,no,yes,no,3,6,11
+Urban,Less than or equal to 3,Living together,secondary education,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,1,2,15
+Urban,Greater than 3,Living together,higher education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,no,yes,1,16,10
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,services,health,<15 min.,2 to 5 hours,0,no,yes,yes,4,10,10
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,other,15 to 30 min.,<2 hours,0,no,yes,no,3,4,13
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,at_home,<15 min.,5 to 10 hours,0,no,yes,yes,4,0,13
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),at_home,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,0,11
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,5 to 10 hours,0,no,yes,no,5,12,12
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,services,teacher,<15 min.,2 to 5 hours,0,yes,no,yes,3,0,14
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,3,no,yes,yes,4,9,10
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,4,16
+Rural,Greater than 3,Living together,secondary education,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,4,8
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,3,2,17
+Urban,Less than or equal to 3,Living together,5th to 9th grade,secondary education,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,3,0,11
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,>1 hour,2 to 5 hours,0,yes,yes,yes,3,2,11
+Urban,Greater than 3,Apart,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,3,0,16
+Urban,Less than or equal to 3,Living together,higher education,secondary education,health,other,<15 min.,2 to 5 hours,0,no,no,yes,3,0,12
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,0,13
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,yes,yes,yes,2,0,13
+Urban,Greater than 3,Living together,higher education,higher education,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,0,14
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,2,9
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,at_home,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,2,0,12
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,0,16
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,no,yes,5,4,10
+Urban,Greater than 3,Apart,higher education,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,5,0,13
+Urban,Less than or equal to 3,Apart,5th to 9th grade,higher education,services,other,15 to 30 min.,2 to 5 hours,1,no,yes,yes,3,18,10
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,at_home,services,<15 min.,2 to 5 hours,1,no,yes,yes,5,16,10
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,15 to 30 min.,<2 hours,1,no,no,yes,3,14,7
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,at_home,<15 min.,<2 hours,1,no,yes,yes,1,26,8
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,<2 hours,0,no,yes,yes,5,6,9
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,no,3,4,15
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,at_home,<15 min.,5 to 10 hours,0,no,yes,yes,4,10,10
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,other,<15 min.,<2 hours,0,no,no,yes,5,4,11
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),at_home,services,30 min. to 1 hour,2 to 5 hours,0,no,no,no,3,2,13
+Rural,Less than or equal to 3,Apart,primary education (4th grade),higher education,other,other,>1 hour,<2 hours,1,no,yes,yes,5,14,8
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,services,<15 min.,2 to 5 hours,0,no,no,yes,2,16,8
+Urban,Less than or equal to 3,Apart,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,1,no,yes,yes,1,8,10
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,5,4,15
+Urban,Less than or equal to 3,Apart,higher education,5th to 9th grade,teacher,other,<15 min.,2 to 5 hours,0,no,yes,no,4,4,14
+Urban,Less than or equal to 3,Living together,higher education,secondary education,health,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,8,15
+Rural,Less than or equal to 3,Apart,higher education,higher education,teacher,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,4,0,12
+Urban,Less than or equal to 3,Living together,higher education,secondary education,teacher,other,<15 min.,<2 hours,0,no,no,yes,3,7,15
+Urban,Greater than 3,Living together,higher education,higher education,services,services,<15 min.,<2 hours,0,no,no,yes,5,4,15
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,<15 min.,2 to 5 hours,0,no,yes,yes,5,2,12
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,1,2,15
+Urban,Greater than 3,Living together,secondary education,secondary education,services,other,15 to 30 min.,5 to 10 hours,0,no,yes,yes,5,10,11
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,0,yes,no,no,4,10,10
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,5 to 10 hours,0,no,yes,yes,3,10,11
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,30 min. to 1 hour,<2 hours,0,no,no,yes,4,7,16
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,<15 min.,2 to 5 hours,0,no,yes,no,5,4,11
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,15 to 30 min.,<2 hours,0,no,no,yes,2,2,13
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),services,services,<15 min.,<2 hours,3,no,no,yes,1,12,5
+Rural,Less than or equal to 3,Living together,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,0,no,yes,yes,5,8,10
+Urban,Greater than 3,Living together,none,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,no,yes,5,0,11
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,other,15 to 30 min.,<2 hours,0,no,no,yes,5,8,7
+Urban,Greater than 3,Living together,secondary education,secondary education,at_home,other,30 min. to 1 hour,2 to 5 hours,1,yes,yes,yes,2,4,10
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,services,<15 min.,<2 hours,2,no,no,yes,5,4,6
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,<2 hours,0,no,no,no,3,2,12
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,no,yes,5,0,13
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),health,other,15 to 30 min.,<2 hours,1,no,yes,yes,5,0,10
+Urban,Less than or equal to 3,Apart,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,2,13
+Urban,Less than or equal to 3,Living together,higher education,5th to 9th grade,teacher,services,<15 min.,>10 hours,0,no,yes,yes,4,2,17
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,11
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),services,other,30 min. to 1 hour,2 to 5 hours,1,no,no,yes,5,4,11
+Rural,Greater than 3,Living together,higher education,5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,no,yes,yes,5,2,14
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,at_home,<15 min.,5 to 10 hours,0,no,yes,no,3,4,14
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,yes,no,no,5,4,13
+Urban,Less than or equal to 3,Apart,higher education,secondary education,services,at_home,<15 min.,2 to 5 hours,0,no,yes,yes,1,4,14
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,2,16
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,services,15 to 30 min.,<2 hours,0,no,no,no,4,0,10
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,>10 hours,0,no,no,yes,2,2,12
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,2,8,12
+Urban,Greater than 3,Living together,higher education,secondary education,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,2,2,15
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,2,11
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,no,no,no,3,2,12
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,5 to 10 hours,0,no,no,no,4,2,13
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,services,<15 min.,5 to 10 hours,0,no,yes,yes,3,0,13
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,<2 hours,0,no,no,yes,4,8,9
+Rural,Less than or equal to 3,Apart,secondary education,higher education,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,6,16
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),services,other,<15 min.,2 to 5 hours,0,no,no,yes,5,0,14
+Rural,Greater than 3,Living together,higher education,higher education,teacher,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,4,8,12
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,4,14
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,3,12,10
+Urban,Greater than 3,Living together,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,0,no,yes,yes,5,16,12
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,services,<15 min.,>10 hours,0,no,yes,yes,2,10,16
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,no,yes,no,3,2,13
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,at_home,<15 min.,2 to 5 hours,0,no,yes,no,1,2,18
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,8,15
+Urban,Greater than 3,Living together,5th to 9th grade,higher education,at_home,health,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,6,16
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,0,yes,yes,yes,5,6,12
+Rural,Greater than 3,Apart,secondary education,5th to 9th grade,other,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,15,10
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,15 to 30 min.,<2 hours,0,no,no,yes,3,6,12
+Urban,Greater than 3,Living together,higher education,higher education,health,health,<15 min.,2 to 5 hours,1,yes,yes,yes,4,2,13
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,services,30 min. to 1 hour,5 to 10 hours,0,no,yes,yes,1,8,15
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,services,services,<15 min.,2 to 5 hours,1,yes,yes,yes,3,0,10
+Urban,Less than or equal to 3,Living together,higher education,secondary education,teacher,services,15 to 30 min.,<2 hours,0,no,no,yes,1,0,10
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,other,15 to 30 min.,<2 hours,0,no,no,yes,4,10,11
+Urban,Less than or equal to 3,Apart,higher education,primary education (4th grade),services,other,15 to 30 min.,<2 hours,0,no,no,yes,5,22,10
+Urban,Less than or equal to 3,Apart,secondary education,5th to 9th grade,teacher,services,<15 min.,<2 hours,0,no,no,yes,3,18,13
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,>10 hours,0,no,yes,no,3,2,18
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,yes,no,yes,4,0,13
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,12,14
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,10,14
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,4,0,12
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,at_home,<15 min.,5 to 10 hours,0,no,yes,yes,2,0,18
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),services,teacher,<15 min.,5 to 10 hours,0,no,yes,yes,3,0,14
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,services,<15 min.,5 to 10 hours,0,no,no,yes,2,0,15
+Urban,Less than or equal to 3,Apart,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,no,yes,yes,2,0,17
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,2,16
+Urban,Greater than 3,Living together,higher education,secondary education,health,services,<15 min.,5 to 10 hours,0,no,yes,yes,3,0,18
+Rural,Less than or equal to 3,Living together,secondary education,primary education (4th grade),services,other,15 to 30 min.,>10 hours,0,no,yes,no,3,0,19
+Rural,Less than or equal to 3,Living together,secondary education,5th to 9th grade,services,other,15 to 30 min.,5 to 10 hours,0,no,yes,yes,4,0,15
+Urban,Greater than 3,Living together,secondary education,secondary education,health,other,<15 min.,<2 hours,0,no,yes,yes,5,0,15
+Urban,Greater than 3,Living together,higher education,higher education,health,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,2,2,13
+Urban,Less than or equal to 3,Living together,higher education,secondary education,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,2,0,14
+Urban,Greater than 3,Living together,higher education,secondary education,other,other,<15 min.,>10 hours,0,no,yes,yes,3,0,17
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,teacher,<15 min.,<2 hours,0,no,yes,yes,1,0,17
+Urban,Less than or equal to 3,Apart,higher education,higher education,health,other,<15 min.,2 to 5 hours,0,no,yes,yes,4,0,15
+Urban,Less than or equal to 3,Living together,higher education,higher education,other,teacher,15 to 30 min.,<2 hours,0,no,no,yes,5,0,13
+Rural,Greater than 3,Living together,higher education,higher education,services,services,15 to 30 min.,5 to 10 hours,0,no,yes,yes,5,0,8
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,other,other,15 to 30 min.,5 to 10 hours,0,no,yes,yes,3,0,16
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,health,health,<15 min.,>10 hours,0,no,yes,yes,5,0,18
+Rural,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),at_home,services,15 to 30 min.,5 to 10 hours,1,no,no,yes,5,0,11
+Urban,Greater than 3,Apart,secondary education,5th to 9th grade,services,other,<15 min.,<2 hours,2,no,no,no,5,0,15
+Rural,Greater than 3,Living together,secondary education,secondary education,other,services,<15 min.,2 to 5 hours,0,no,no,no,5,0,11
+Urban,Greater than 3,Living together,primary education (4th grade),higher education,other,teacher,<15 min.,2 to 5 hours,0,yes,yes,no,5,2,11
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,2,15
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,3,2,14
+Rural,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,<2 hours,0,no,no,yes,5,2,17
+Urban,Greater than 3,Living together,higher education,secondary education,other,other,<15 min.,5 to 10 hours,0,no,yes,yes,5,2,17
+Urban,Less than or equal to 3,Living together,higher education,secondary education,health,services,15 to 30 min.,<2 hours,0,no,yes,yes,1,8,15
+Rural,Greater than 3,Living together,secondary education,higher education,at_home,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,2,17
+Urban,Greater than 3,Living together,secondary education,secondary education,at_home,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,8,14
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,health,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,9,10
+Urban,Greater than 3,Living together,higher education,higher education,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,13
+Urban,Greater than 3,Living together,secondary education,higher education,other,other,<15 min.,<2 hours,0,no,yes,yes,1,4,14
+Urban,Greater than 3,Living together,higher education,higher education,health,health,<15 min.,<2 hours,0,no,no,yes,5,2,17
+Urban,Greater than 3,Apart,higher education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,5,14,17
+Urban,Less than or equal to 3,Apart,secondary education,secondary education,services,other,<15 min.,2 to 5 hours,0,yes,yes,yes,5,0,13
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,2,2,14
+Urban,Less than or equal to 3,Living together,higher education,higher education,other,other,<15 min.,<2 hours,0,no,yes,yes,5,2,11
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,30 min. to 1 hour,5 to 10 hours,0,no,no,no,5,12,11
+Urban,Less than or equal to 3,Apart,primary education (4th grade),primary education (4th grade),other,other,30 min. to 1 hour,2 to 5 hours,2,no,yes,yes,4,2,9
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,yes,yes,5,2,10
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,no,3,4,13
+Rural,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,5 to 10 hours,0,no,yes,yes,3,0,10
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),services,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,0,17
+Urban,Less than or equal to 3,Living together,none,5th to 9th grade,at_home,at_home,15 to 30 min.,5 to 10 hours,0,no,no,yes,2,0,15
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,2,0,14
+Urban,Greater than 3,Living together,higher education,higher education,other,other,<15 min.,5 to 10 hours,0,no,no,yes,3,0,13
+Urban,Greater than 3,Living together,secondary education,secondary education,other,services,<15 min.,<2 hours,0,no,no,yes,5,0,17
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,>1 hour,<2 hours,0,no,yes,yes,4,2,10
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,<15 min.,5 to 10 hours,0,no,yes,yes,4,0,13
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,15 to 30 min.,5 to 10 hours,0,no,yes,yes,4,4,15
+Urban,Greater than 3,Living together,secondary education,secondary education,at_home,other,<15 min.,<2 hours,0,no,yes,yes,5,2,11
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,>10 hours,0,no,yes,yes,5,0,12
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,at_home,services,<15 min.,<2 hours,0,no,yes,no,5,0,10
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,>1 hour,2 to 5 hours,0,no,no,no,2,2,10
+Rural,Greater than 3,Living together,5th to 9th grade,higher education,at_home,other,<15 min.,5 to 10 hours,0,no,yes,yes,5,0,15
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,no,yes,5,6,15
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,no,yes,4,8,12
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,no,yes,2,0,12
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,15 to 30 min.,>10 hours,0,no,no,no,4,6,14
+Urban,Greater than 3,Living together,secondary education,higher education,services,other,<15 min.,5 to 10 hours,0,no,no,yes,5,8,14
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,2,0,15
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,services,services,<15 min.,>10 hours,0,no,yes,yes,1,4,15
+Rural,Greater than 3,Apart,secondary education,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,2,0,16
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,<15 min.,2 to 5 hours,0,no,yes,yes,2,0,13
+Urban,Less than or equal to 3,Living together,secondary education,higher education,services,other,<15 min.,2 to 5 hours,0,no,no,yes,5,6,17
+Urban,Greater than 3,Apart,5th to 9th grade,5th to 9th grade,at_home,at_home,<15 min.,2 to 5 hours,0,no,yes,yes,4,18,14
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,other,<15 min.,5 to 10 hours,0,no,yes,yes,3,0,14
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,services,<15 min.,5 to 10 hours,0,no,no,yes,1,4,17
+Rural,Greater than 3,Living together,higher education,secondary education,teacher,services,<15 min.,5 to 10 hours,0,no,no,yes,4,4,17
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,<15 min.,5 to 10 hours,0,no,yes,yes,5,0,14
+Urban,Greater than 3,Living together,higher education,secondary education,health,other,<15 min.,5 to 10 hours,0,no,yes,yes,4,0,13
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,10,15
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),services,other,<15 min.,2 to 5 hours,0,no,yes,yes,4,4,16
+Urban,Less than or equal to 3,Apart,5th to 9th grade,secondary education,at_home,other,15 to 30 min.,<2 hours,1,no,no,yes,5,16,11
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),other,at_home,<15 min.,<2 hours,1,no,yes,yes,3,6,13
+Urban,Less than or equal to 3,Living together,higher education,higher education,other,other,<15 min.,5 to 10 hours,2,no,no,yes,5,0,12
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,3,11,12
+Urban,Less than or equal to 3,Apart,secondary education,higher education,other,other,<15 min.,2 to 5 hours,0,no,no,yes,2,9,15
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,2 to 5 hours,0,no,yes,yes,4,0,17
+Urban,Less than or equal to 3,Apart,higher education,higher education,health,other,<15 min.,5 to 10 hours,0,no,yes,yes,4,2,15
+Urban,Less than or equal to 3,Living together,higher education,5th to 9th grade,teacher,other,<15 min.,2 to 5 hours,0,no,yes,yes,3,0,17
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,2 to 5 hours,2,no,yes,yes,4,21,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,3,8,15
+Urban,Greater than 3,Living together,higher education,higher education,teacher,other,<15 min.,<2 hours,1,no,yes,yes,5,5,11
+Urban,Less than or equal to 3,Apart,secondary education,5th to 9th grade,other,other,<15 min.,2 to 5 hours,0,no,yes,yes,5,10,18
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,at_home,other,<15 min.,5 to 10 hours,0,no,yes,yes,2,5,17
+Rural,Greater than 3,Living together,5th to 9th grade,secondary education,other,services,<15 min.,<2 hours,0,no,no,yes,4,13,14
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,no,yes,4,10,11
+Urban,Less than or equal to 3,Apart,5th to 9th grade,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,4,10,17
+Urban,Greater than 3,Living together,primary education (4th grade),none,other,other,15 to 30 min.,<2 hours,1,yes,no,yes,5,5,10
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,4,13
+Urban,Greater than 3,Living together,primary education (4th grade),secondary education,at_home,other,15 to 30 min.,<2 hours,0,no,yes,yes,5,11,11
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,0,12
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,<15 min.,<2 hours,1,no,yes,no,2,6,10
+Rural,Greater than 3,Living together,secondary education,secondary education,at_home,other,15 to 30 min.,<2 hours,0,no,yes,yes,5,4,11
+Rural,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,services,15 to 30 min.,2 to 5 hours,0,no,no,no,5,0,17
+Rural,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,0,no,no,no,1,0,9
+Rural,Less than or equal to 3,Apart,higher education,higher education,at_home,other,<15 min.,2 to 5 hours,0,no,yes,no,2,5,11
+Urban,Greater than 3,Apart,primary education (4th grade),5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,yes,no,yes,5,0,11
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,at_home,other,<15 min.,2 to 5 hours,1,no,no,no,5,0,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,<2 hours,1,no,yes,yes,5,0,7
+Rural,Greater than 3,Living together,higher education,higher education,teacher,other,15 to 30 min.,<2 hours,0,no,no,yes,5,0,14
+Urban,Less than or equal to 3,Apart,5th to 9th grade,5th to 9th grade,at_home,other,15 to 30 min.,>10 hours,0,no,no,no,1,4,11
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,4,0,10
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,services,15 to 30 min.,<2 hours,1,no,yes,yes,2,4,8
+Rural,Greater than 3,Living together,none,5th to 9th grade,other,other,15 to 30 min.,<2 hours,0,no,yes,no,2,0,12
+Rural,Greater than 3,Living together,5th to 9th grade,secondary education,other,other,15 to 30 min.,<2 hours,0,no,yes,yes,3,2,12
+Rural,Greater than 3,Living together,secondary education,secondary education,other,services,15 to 30 min.,<2 hours,0,no,no,yes,4,0,16
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,15 to 30 min.,2 to 5 hours,0,no,yes,no,3,0,0
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,2 to 5 hours,0,no,no,yes,5,4,9
+Rural,Less than or equal to 3,Living together,higher education,primary education (4th grade),health,services,<15 min.,2 to 5 hours,0,no,yes,yes,2,0,14
+Rural,Less than or equal to 3,Living together,higher education,primary education (4th grade),health,services,<15 min.,2 to 5 hours,0,no,yes,yes,2,7,8
+Rural,Greater than 3,Living together,secondary education,higher education,other,health,30 min. to 1 hour,2 to 5 hours,0,no,no,no,5,4,11
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,>1 hour,2 to 5 hours,0,no,yes,no,4,8,9
+Urban,Less than or equal to 3,Living together,secondary education,secondary education,at_home,at_home,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,11
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,30 min. to 1 hour,<2 hours,0,no,no,no,3,8,9
+Rural,Greater than 3,Living together,higher education,higher education,teacher,teacher,15 to 30 min.,5 to 10 hours,0,no,no,yes,4,6,17
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,services,15 to 30 min.,<2 hours,0,no,no,no,1,3,13
+Rural,Greater than 3,Living together,5th to 9th grade,secondary education,other,services,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,1,2,15
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,no,no,5,0,11
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,4,4,11
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,services,<15 min.,5 to 10 hours,1,no,yes,no,4,0,8
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,services,<15 min.,5 to 10 hours,1,no,yes,no,4,3,8
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,0,yes,yes,yes,2,0,9
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,0,no,yes,no,2,0,15
+Rural,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,at_home,services,<15 min.,<2 hours,0,no,yes,yes,3,4,11
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,>1 hour,>10 hours,0,no,yes,yes,1,0,13
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,>1 hour,5 to 10 hours,0,yes,yes,no,5,2,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,2,1,11
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,0,no,no,yes,2,0,14
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,at_home,30 min. to 1 hour,2 to 5 hours,0,no,yes,no,2,0,14
+Rural,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,yes,yes,no,5,2,12
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,0,no,no,no,5,6,11
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,other,<15 min.,2 to 5 hours,1,no,yes,yes,5,9,8
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),other,services,15 to 30 min.,<2 hours,0,no,yes,no,4,0,11
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,services,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,2,1,14
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,health,other,30 min. to 1 hour,<2 hours,0,no,no,no,4,1,13
+Urban,Greater than 3,Living together,higher education,higher education,other,teacher,<15 min.,2 to 5 hours,0,no,yes,no,3,0,13
+Rural,Greater than 3,Living together,secondary education,secondary education,services,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,4,12
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,15 to 30 min.,2 to 5 hours,1,no,yes,no,5,2,12
+Rural,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,30 min. to 1 hour,<2 hours,0,no,yes,no,4,0,16
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),at_home,services,15 to 30 min.,<2 hours,0,no,yes,yes,4,4,10
+Rural,Less than or equal to 3,Living together,primary education (4th grade),secondary education,at_home,other,30 min. to 1 hour,<2 hours,0,no,yes,yes,3,2,11
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,services,15 to 30 min.,5 to 10 hours,0,no,yes,no,4,0,14
+Rural,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,yes,yes,5,2,8
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,15 to 30 min.,<2 hours,0,no,yes,yes,3,11,11
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,2 to 5 hours,3,yes,yes,no,1,0,8
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,at_home,<15 min.,<2 hours,0,no,yes,no,5,4,10
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,services,<15 min.,<2 hours,1,no,no,yes,2,0,10
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,30 min. to 1 hour,<2 hours,0,no,yes,no,3,2,11
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,0,no,yes,no,4,0,9
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,1,1,11
+Urban,Less than or equal to 3,Apart,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,0,no,yes,no,1,6,8
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,4,0,11
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,services,<15 min.,<2 hours,1,no,yes,yes,3,1,10
+Rural,Less than or equal to 3,Apart,secondary education,5th to 9th grade,other,other,15 to 30 min.,5 to 10 hours,2,no,yes,no,2,6,10
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,<15 min.,5 to 10 hours,1,no,no,no,3,6,9
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,<2 hours,1,no,no,yes,4,0,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,at_home,15 to 30 min.,<2 hours,1,no,no,yes,2,4,10
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,1,no,yes,yes,1,12,9
+Rural,Greater than 3,Apart,5th to 9th grade,5th to 9th grade,health,other,<15 min.,2 to 5 hours,0,no,no,no,3,2,10
+Urban,Greater than 3,Living together,none,primary education (4th grade),other,at_home,15 to 30 min.,<2 hours,0,no,no,no,5,5,10
+Rural,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,at_home,other,<15 min.,2 to 5 hours,0,no,no,yes,3,0,9
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,<2 hours,0,no,no,yes,4,0,13
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),services,services,<15 min.,<2 hours,0,no,yes,yes,4,2,14
+Urban,Greater than 3,Living together,secondary education,secondary education,services,at_home,15 to 30 min.,>10 hours,1,no,yes,no,5,0,10
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,services,<15 min.,2 to 5 hours,0,no,yes,yes,1,0,14
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,<15 min.,<2 hours,0,no,yes,no,5,0,16
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,other,<15 min.,<2 hours,1,no,yes,yes,1,12,7
+Urban,Less than or equal to 3,Living together,higher education,secondary education,other,other,<15 min.,<2 hours,0,no,no,yes,5,8,13
+Rural,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,30 min. to 1 hour,>10 hours,1,no,yes,no,3,2,9
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,>10 hours,0,yes,yes,yes,5,0,14
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,no,no,yes,1,0,13
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,0,no,yes,yes,5,0,11
+Urban,Greater than 3,Living together,secondary education,secondary education,at_home,services,15 to 30 min.,2 to 5 hours,1,no,no,yes,3,8,10
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,services,<15 min.,5 to 10 hours,0,no,yes,no,3,0,10
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,30 min. to 1 hour,<2 hours,1,no,yes,yes,5,0,9
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,30 min. to 1 hour,2 to 5 hours,0,no,yes,no,1,0,18
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,no,1,0,17
+Urban,Greater than 3,Apart,primary education (4th grade),none,other,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,4,1,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,1,no,yes,yes,5,9,7
+Urban,Greater than 3,Living together,secondary education,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,no,yes,1,0,8
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,services,at_home,<15 min.,<2 hours,0,no,no,yes,3,2,7
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,at_home,15 to 30 min.,2 to 5 hours,0,yes,no,no,3,8,10
+Rural,Greater than 3,Living together,higher education,higher education,health,teacher,<15 min.,2 to 5 hours,0,no,no,yes,2,0,16
+Rural,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,other,other,15 to 30 min.,<2 hours,0,no,no,yes,2,0,15
+Urban,Greater than 3,Apart,5th to 9th grade,higher education,other,services,<15 min.,2 to 5 hours,1,no,yes,yes,1,8,8
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,2,0,0
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,5,6,8
+Rural,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,2,0,10
+Urban,Greater than 3,Living together,higher education,higher education,health,health,<15 min.,2 to 5 hours,0,no,yes,yes,3,4,8
+Urban,Less than or equal to 3,Living together,higher education,higher education,at_home,health,<15 min.,>10 hours,0,no,yes,yes,5,2,6
+Rural,Less than or equal to 3,Living together,secondary education,higher education,at_home,other,30 min. to 1 hour,2 to 5 hours,0,no,yes,no,2,2,8
+Urban,Less than or equal to 3,Living together,higher education,higher education,other,services,<15 min.,5 to 10 hours,0,no,yes,yes,5,0,16
+Rural,Greater than 3,Living together,higher education,primary education (4th grade),other,other,<15 min.,<2 hours,0,no,no,yes,5,1,14
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,>1 hour,5 to 10 hours,0,no,no,no,3,0,10
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,<15 min.,<2 hours,0,no,yes,yes,5,5,9
+Urban,Less than or equal to 3,Living together,higher education,higher education,services,services,15 to 30 min.,<2 hours,0,no,yes,no,5,1,11
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,<15 min.,<2 hours,0,no,yes,yes,3,8,9
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,30 min. to 1 hour,2 to 5 hours,0,no,no,yes,1,0,10
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),health,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,5,2,8
+Urban,Less than or equal to 3,Living together,5th to 9th grade,primary education (4th grade),other,services,<15 min.,2 to 5 hours,0,no,no,yes,3,0,16
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,health,<15 min.,<2 hours,0,no,yes,yes,5,0,12
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,services,30 min. to 1 hour,2 to 5 hours,0,no,yes,no,5,11,10
+Urban,Less than or equal to 3,Apart,5th to 9th grade,5th to 9th grade,other,other,30 min. to 1 hour,>10 hours,0,no,yes,no,5,8,14
+Urban,Less than or equal to 3,Apart,5th to 9th grade,primary education (4th grade),services,services,<15 min.,<2 hours,0,no,no,yes,5,11,12
+Rural,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,no,yes,no,5,2,11
+Urban,Less than or equal to 3,Living together,higher education,primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,8,10
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,at_home,other,15 to 30 min.,<2 hours,0,no,no,no,1,5,11
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,yes,no,no,5,0,11
+Urban,Greater than 3,Living together,higher education,higher education,teacher,services,15 to 30 min.,5 to 10 hours,0,no,yes,yes,5,1,12
+Rural,Greater than 3,Living together,higher education,higher education,health,other,30 min. to 1 hour,<2 hours,3,no,no,yes,5,2,8
+Rural,Less than or equal to 3,Living together,primary education (4th grade),secondary education,other,other,15 to 30 min.,<2 hours,0,no,no,no,5,2,12
+Urban,Greater than 3,Living together,secondary education,higher education,services,other,<15 min.,2 to 5 hours,1,no,yes,yes,5,8,8
+Urban,Greater than 3,Living together,higher education,higher education,health,health,<15 min.,2 to 5 hours,0,no,yes,yes,5,0,16
+Rural,Less than or equal to 3,Living together,higher education,primary education (4th grade),other,at_home,<15 min.,<2 hours,0,no,no,yes,2,0,11
+Urban,Greater than 3,Apart,primary education (4th grade),primary education (4th grade),at_home,at_home,<15 min.,2 to 5 hours,0,no,no,yes,3,2,11
+Rural,Greater than 3,Living together,higher education,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,yes,yes,yes,5,0,18
+Urban,Less than or equal to 3,Apart,5th to 9th grade,5th to 9th grade,other,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,0,13
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,1,0,13
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,<15 min.,2 to 5 hours,2,no,yes,yes,4,2,10
+Urban,Less than or equal to 3,Apart,primary education (4th grade),none,other,other,<15 min.,<2 hours,0,no,no,no,5,4,12
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,at_home,15 to 30 min.,<2 hours,0,no,yes,yes,4,3,10
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,other,<15 min.,5 to 10 hours,0,yes,yes,yes,3,5,13
+Rural,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,other,at_home,<15 min.,<2 hours,0,no,no,no,5,4,11
+Rural,Greater than 3,Living together,secondary education,primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,3,no,yes,yes,5,2,10
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,<2 hours,0,no,no,no,5,0,10
+Rural,Greater than 3,Living together,primary education (4th grade),none,at_home,at_home,30 min. to 1 hour,<2 hours,1,yes,yes,no,4,0,13
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,15 to 30 min.,<2 hours,0,no,yes,yes,2,0,10
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,at_home,15 to 30 min.,2 to 5 hours,0,no,yes,no,5,6,10
+Rural,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,other,services,<15 min.,2 to 5 hours,0,no,no,no,1,0,12
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,<15 min.,<2 hours,1,no,no,no,5,0,0
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,services,other,15 to 30 min.,<2 hours,0,no,no,yes,5,2,10
+Rural,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,0,no,no,yes,5,0,9
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),services,other,15 to 30 min.,<2 hours,1,no,yes,yes,5,2,9
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,services,other,<15 min.,<2 hours,1,no,no,yes,5,0,0
+Urban,Greater than 3,Living together,secondary education,5th to 9th grade,at_home,services,15 to 30 min.,<2 hours,3,no,no,no,3,4,9
+Urban,Greater than 3,Living together,secondary education,secondary education,at_home,at_home,<15 min.,2 to 5 hours,2,no,yes,yes,3,9,8
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,services,15 to 30 min.,<2 hours,0,no,yes,yes,4,6,8
+Urban,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),at_home,other,15 to 30 min.,<2 hours,3,no,no,yes,5,4,9
+Urban,Greater than 3,Apart,secondary education,5th to 9th grade,services,at_home,15 to 30 min.,2 to 5 hours,2,no,yes,no,1,8,7
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,at_home,<15 min.,<2 hours,0,no,yes,no,5,9,10
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,<2 hours,1,no,yes,yes,4,12,10
+Rural,Greater than 3,Apart,higher education,secondary education,services,services,<15 min.,<2 hours,0,no,yes,yes,2,8,10
+Rural,Greater than 3,Living together,secondary education,5th to 9th grade,other,other,15 to 30 min.,<2 hours,0,no,yes,yes,5,8,11
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,30 min. to 1 hour,2 to 5 hours,1,no,no,yes,2,8,11
+Urban,Greater than 3,Living together,secondary education,secondary education,health,other,15 to 30 min.,2 to 5 hours,1,no,yes,yes,3,4,10
+Urban,Less than or equal to 3,Living together,primary education (4th grade),secondary education,at_home,services,<15 min.,<2 hours,0,no,no,yes,3,0,9
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,30 min. to 1 hour,<2 hours,1,no,yes,yes,5,4,10
+Urban,Greater than 3,Apart,primary education (4th grade),5th to 9th grade,at_home,other,15 to 30 min.,2 to 5 hours,2,no,yes,no,5,2,8
+Urban,Less than or equal to 3,Apart,primary education (4th grade),primary education (4th grade),at_home,other,<15 min.,<2 hours,0,no,yes,no,5,0,7
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,<2 hours,1,no,no,yes,3,0,0
+Rural,Greater than 3,Living together,none,none,at_home,other,15 to 30 min.,<2 hours,0,no,yes,yes,5,0,11
+Rural,Less than or equal to 3,Apart,secondary education,primary education (4th grade),other,at_home,15 to 30 min.,5 to 10 hours,0,no,yes,no,3,5,8
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,teacher,services,<15 min.,2 to 5 hours,0,yes,yes,yes,5,0,0
+Rural,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,<15 min.,2 to 5 hours,1,no,yes,yes,4,3,8
+Urban,Greater than 3,Living together,higher education,primary education (4th grade),health,at_home,<15 min.,<2 hours,0,no,yes,no,5,0,9
+Urban,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,at_home,other,<15 min.,<2 hours,0,no,no,yes,3,0,10
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,30 min. to 1 hour,2 to 5 hours,2,no,no,no,5,3,7
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,at_home,15 to 30 min.,2 to 5 hours,0,no,no,yes,1,2,14
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,15 to 30 min.,<2 hours,0,no,yes,yes,4,0,13
+Urban,Less than or equal to 3,Apart,primary education (4th grade),5th to 9th grade,at_home,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,4,0,14
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,15 to 30 min.,2 to 5 hours,0,no,no,yes,1,0,18
+Urban,Less than or equal to 3,Living together,higher education,higher education,services,other,<15 min.,<2 hours,0,no,yes,yes,5,3,17
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,4,0,18
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,30 min. to 1 hour,2 to 5 hours,1,no,no,no,4,0,0
+Urban,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,at_home,services,15 to 30 min.,<2 hours,0,no,yes,no,1,8,11
+Rural,Greater than 3,Living together,higher education,higher education,at_home,services,30 min. to 1 hour,<2 hours,0,no,yes,yes,1,5,14
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,30 min. to 1 hour,<2 hours,0,no,no,no,4,4,14
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,other,15 to 30 min.,2 to 5 hours,0,no,yes,yes,2,4,10
+Urban,Less than or equal to 3,Living together,5th to 9th grade,5th to 9th grade,services,services,15 to 30 min.,5 to 10 hours,0,no,no,yes,3,0,13
+Rural,Less than or equal to 3,Apart,higher education,5th to 9th grade,teacher,other,<15 min.,2 to 5 hours,0,no,no,yes,5,0,0
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,30 min. to 1 hour,2 to 5 hours,1,no,no,no,2,2,10
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,15 to 30 min.,<2 hours,1,no,no,no,2,0,0
+Urban,Greater than 3,Living together,higher education,5th to 9th grade,teacher,other,15 to 30 min.,>10 hours,0,no,no,yes,5,0,18
+Rural,Less than or equal to 3,Apart,5th to 9th grade,primary education (4th grade),services,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,2,5,12
+Urban,Less than or equal to 3,Apart,primary education (4th grade),primary education (4th grade),at_home,services,<15 min.,2 to 5 hours,0,no,no,no,3,2,11
+Urban,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,at_home,at_home,15 to 30 min.,2 to 5 hours,0,no,yes,no,4,0,12
+Rural,Greater than 3,Apart,primary education (4th grade),primary education (4th grade),at_home,at_home,15 to 30 min.,2 to 5 hours,3,no,yes,no,1,0,0
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,services,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,4,5,15
+Rural,Greater than 3,Living together,higher education,secondary education,services,other,15 to 30 min.,2 to 5 hours,1,no,yes,yes,2,4,11
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,<15 min.,2 to 5 hours,0,no,yes,no,5,0,10
+Rural,Greater than 3,Living together,higher education,higher education,teacher,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,5,2,12
+Urban,Less than or equal to 3,Apart,secondary education,5th to 9th grade,services,other,15 to 30 min.,2 to 5 hours,0,no,no,no,5,0,15
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),other,services,15 to 30 min.,<2 hours,0,no,no,yes,3,2,14
+Urban,Less than or equal to 3,Living together,primary education (4th grade),primary education (4th grade),at_home,services,15 to 30 min.,5 to 10 hours,0,no,no,yes,4,0,18
+Rural,Less than or equal to 3,Apart,primary education (4th grade),5th to 9th grade,at_home,other,30 min. to 1 hour,2 to 5 hours,0,no,no,no,5,0,15
+Urban,Greater than 3,Living together,secondary education,secondary education,services,services,15 to 30 min.,2 to 5 hours,0,no,yes,yes,3,6,13
+Urban,Less than or equal to 3,Living together,higher education,higher education,at_home,at_home,<15 min.,2 to 5 hours,0,no,yes,yes,1,4,15
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,services,15 to 30 min.,2 to 5 hours,0,no,no,no,3,0,13
+Rural,Greater than 3,Living together,primary education (4th grade),secondary education,at_home,other,15 to 30 min.,2 to 5 hours,0,no,yes,no,3,0,9
+Urban,Less than or equal to 3,Living together,higher education,higher education,teacher,services,15 to 30 min.,5 to 10 hours,0,no,no,yes,5,0,16
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,30 min. to 1 hour,<2 hours,1,no,yes,yes,1,0,9
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,at_home,services,15 to 30 min.,<2 hours,0,no,yes,yes,4,0,10
+Rural,Greater than 3,Living together,higher education,higher education,other,teacher,30 min. to 1 hour,2 to 5 hours,0,no,yes,yes,5,0,0
+Rural,Less than or equal to 3,Living together,primary education (4th grade),5th to 9th grade,at_home,services,30 min. to 1 hour,<2 hours,0,no,yes,yes,3,3,10
+Urban,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,other,at_home,<15 min.,5 to 10 hours,0,no,no,no,3,8,12
+Rural,Greater than 3,Living together,primary education (4th grade),5th to 9th grade,other,other,<15 min.,<2 hours,0,no,no,yes,1,4,9
+Rural,Less than or equal to 3,Living together,higher education,higher education,other,other,15 to 30 min.,5 to 10 hours,0,no,no,yes,1,0,17
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,>1 hour,5 to 10 hours,0,no,no,yes,4,4,12
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),at_home,other,15 to 30 min.,2 to 5 hours,1,no,yes,yes,3,4,9
+Rural,Less than or equal to 3,Living together,higher education,higher education,teacher,services,<15 min.,2 to 5 hours,0,no,no,yes,2,1,14
+Urban,Greater than 3,Living together,secondary education,secondary education,other,other,<15 min.,2 to 5 hours,0,no,no,yes,1,1,16
+Rural,Greater than 3,Living together,secondary education,primary education (4th grade),at_home,other,<15 min.,2 to 5 hours,0,no,yes,yes,1,10,9
+Urban,Greater than 3,Living together,higher education,higher education,teacher,teacher,<15 min.,2 to 5 hours,0,no,no,yes,2,4,19
+Rural,Greater than 3,Living together,5th to 9th grade,primary education (4th grade),other,other,15 to 30 min.,<2 hours,0,no,no,yes,5,0,0
+Urban,Greater than 3,Living together,5th to 9th grade,secondary education,other,services,15 to 30 min.,2 to 5 hours,0,no,no,yes,3,4,16
+Rural,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,services,15 to 30 min.,<2 hours,1,no,no,no,5,0,0
+Rural,Greater than 3,Living together,higher education,5th to 9th grade,other,other,15 to 30 min.,<2 hours,1,no,no,no,3,0,0
+Rural,Greater than 3,Living together,5th to 9th grade,5th to 9th grade,at_home,other,15 to 30 min.,5 to 10 hours,0,no,no,no,4,0,15
+Urban,Greater than 3,Living together,higher education,secondary education,teacher,other,15 to 30 min.,2 to 5 hours,0,no,no,yes,1,0,11
+Rural,Greater than 3,Living together,higher education,higher education,teacher,at_home,30 min. to 1 hour,<2 hours,0,no,yes,yes,5,4,10
+Rural,Greater than 3,Living together,5th to 9th grade,secondary education,services,other,<15 min.,5 to 10 hours,1,no,no,yes,5,4,10
+Urban,Less than or equal to 3,Living together,secondary education,primary education (4th grade),teacher,services,<15 min.,2 to 5 hours,0,no,yes,yes,1,4,16
+Urban,Greater than 3,Living together,primary education (4th grade),primary education (4th grade),other,other,15 to 30 min.,2 to 5 hours,0,no,no,no,5,6,9
+Urban,Less than or equal to 3,Living together,secondary education,primary education (4th grade),services,services,15 to 30 min.,<2 hours,0,no,no,yes,2,6,10
+Rural,Less than or equal to 3,Living together,secondary education,5th to 9th grade,services,other,30 min. to 1 hour,<2 hours,0,no,no,yes,5,4,11
