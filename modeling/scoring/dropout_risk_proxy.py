@@ -1,4 +1,4 @@
-# dropout_risk_proxy.py
+# modeling/scoring/dropout_risk_proxy.py
 import pandas as pd
 from modeling.config import WEIGHTS, RISK_MAP
 
