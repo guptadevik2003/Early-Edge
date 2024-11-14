@@ -28,4 +28,4 @@ def compare_models(data):
 
     print("-"*60)
 
-  print("="*60)
+  print("="*60 + "\n")
