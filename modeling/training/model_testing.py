@@ -1,4 +1,4 @@
-# model_testing.py
+# modeling/training/model_testing.py
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, mean_squared_error
 from sklearn.preprocessing import StandardScaler

@@ -1,4 +1,4 @@
-# model_comparison.py
+# modeling/training/model_comparison.py
 
 models = ['Logistic Regression', 'Random Forest Classifier', 'Decision Tree Classifier']
 
