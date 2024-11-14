@@ -2,7 +2,7 @@
 from modeling.preprocessing.data_cleaning import clean_data
 from modeling.preprocessing.data_preprocessing import preprocess_data
 from modeling.scoring.dropout_risk_proxy import calculate_dropout_proxy
-from modeling.training.model_training import train_random_forest_model, train_decision_tree_model, train_logistic_regression_model
+from modeling.algorithms.classifiers import logistic_regression_model, random_forest_model, decision_tree_model
 from modeling.training.model_testing import test_model
 from modeling.training.model_comparison import compare_models
 from modeling.utils.helpers import load_data
@@ -21,10 +21,10 @@ def main():
   # Calculating dropout_risk
   data_with_risk = calculate_dropout_proxy(preprocessed_data)
 
-  # Training Models
-  lr_trained_model = train_logistic_regression_model(data_with_risk)
-  rf_trained_model = train_random_forest_model(data_with_risk)
-  dt_trained_model = train_decision_tree_model(data_with_risk)
+  # Importing Trained Models
+  lr_trained_model = logistic_regression_model(data_with_risk)
+  rf_trained_model = random_forest_model(data_with_risk)
+  dt_trained_model = decision_tree_model(data_with_risk)
 
   # Testing Models
   lr_test_result = test_model(lr_trained_model, data_with_risk)
