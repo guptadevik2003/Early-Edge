@@ -1,4 +1,4 @@
-# data_preprocessing.py
+# modeling/preprocessing/data_preprocessing.py
 import numpy as np
 
 def preprocess_data(data):

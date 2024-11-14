@@ -1,4 +1,4 @@
-# data_cleaning.py
+# modeling/preprocessing/data_cleaning.py
 import pandas as pd
 
 def clean_data(data):
