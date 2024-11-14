@@ -1,4 +1,4 @@
-# config.py
+# modeling/config.py
 
 # Weights for dropout risk calculation
 WEIGHTS = {
