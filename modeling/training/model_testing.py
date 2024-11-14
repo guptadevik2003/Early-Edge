@@ -1,4 +1,5 @@
 # modeling/training/model_testing.py
+import re
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, mean_squared_error
 from sklearn.preprocessing import StandardScaler
@@ -14,9 +15,10 @@ def test_model(model, data):
 
   y_pred = model.predict(X_test)
 
+  name = re.sub(r"(?<!^)(?=[A-Z])", " ", model.__class__.__name__)
   accuracy = accuracy_score(y_test, y_pred)
-  report = classification_report(y_test, y_pred)
-  matrix = confusion_matrix(y_test, y_pred)
   mse = mean_squared_error(y_test, y_pred)
+  report = classification_report(y_test, y_pred, output_dict=True)
+  cmatrix = confusion_matrix(y_test, y_pred)
 
-  return { 'accuracy': accuracy, 'report': report, 'matrix': matrix, 'mse': mse }
+  return { 'name': name, 'accuracy': accuracy, 'mse': mse, 'report': report, 'cmatrix': cmatrix }
