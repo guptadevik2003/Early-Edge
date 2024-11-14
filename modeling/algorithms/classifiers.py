@@ -1,4 +1,4 @@
-# classifiers.py
+# modeling/algorithms/classifiers.py
 import joblib
 import os.path
 from sklearn.linear_model import LogisticRegression
