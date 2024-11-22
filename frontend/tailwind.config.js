@@ -8,6 +8,21 @@ export default {
   darkMode: 'media', // or 'class'
   theme: {
     colors: ({ colors }) => ({
+      'accent': '#FFC44D',
+      'accent-medium': '#FFDA8F',
+      'accent-light': '#FFF0D1',
+
+      'screen-bg-black': '#101011',
+      
+      'txt-white': '#FBFBFB',
+      'text-secondary': '#B9B9B9',
+      'text-muted': '#8E8C87',
+
+      'card-bg-dark-grey': '#151515',
+      'card-bg-grey': '#1F1F1F',
+      'card-bg-light-grey': '#353535',
+
+      'icon-bg-light-grey': '#393939',
       inherit: colors.inherit,
       current: colors.current,
       transparent: colors.transparent,
