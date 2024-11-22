@@ -15,8 +15,8 @@ export default {
       'screen-bg-black': '#101011',
       
       'txt-white': '#FBFBFB',
-      'text-secondary': '#B9B9B9',
-      'text-muted': '#8E8C87',
+      'txt-secondary': '#B9B9B9',
+      'txt-muted': '#8E8C87',
 
       'card-bg-dark-grey': '#151515',
       'card-bg-grey': '#1F1F1F',
