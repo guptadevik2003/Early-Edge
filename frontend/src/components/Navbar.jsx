@@ -21,7 +21,7 @@ export default function Navbar() {
         <div className='flex items-center gap-10 bg-screen-bg-black h-[72px] z-40'>
           <div className='bg-screen-bg-black h-full flex items-center z-40'>
             <Navigate href='/' className='flex flex-row items-center gap-2 hover:opacity-80 transition-all duration-300' callback={navbarShown?showHideNavbar:()=>{}}>
-              <img src='/icon-white.png' alt='Early Edge' className='h-8 md:h-7' />
+              <img src='/icon-white.png' alt='Early Edge' className='h-8' />
               <h1 className='text-2xl font-medium'>Early Edge</h1>
             </Navigate>
           </div>
