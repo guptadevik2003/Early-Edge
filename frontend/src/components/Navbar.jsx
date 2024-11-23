@@ -30,10 +30,10 @@ export default function Navbar() {
           <div className='nav-links md:static absolute left-0 top-[-100%] md:w-auto w-full flex px-5 transition-all translate-x-0 translate-y-0 delay-[50ms] duration-500 ease-in-out md:border-b-0 border-b-card-bg-light-grey md:pb-0 pb-2'>
             <ul className='md:w-full w-[86vw] md:py-1 py-8 flex md:flex-row flex-col md:items-center gap-1 font-medium mx-auto bg-screen-bg-black'>
               <li className='flex hover:bg-card-bg-dark-grey rounded-lg'>
-                <Navigate className='text-txt-secondary py-2 px-3 rounded-lg' href='/features' callback={showHideNavbar}>Features</Navigate>
+                <Navigate className='text-txt-secondary py-2 px-3 rounded-lg hover:opacity-80 transition-all duration-300' href='/features' callback={showHideNavbar}>Features</Navigate>
               </li>
               <li className='flex hover:bg-card-bg-dark-grey rounded-lg'>
-                <Navigate className='text-txt-secondary py-2 px-3 rounded-lg' href='/about' callback={showHideNavbar}>About</Navigate>
+                <Navigate className='text-txt-secondary py-2 px-3 rounded-lg hover:opacity-80 transition-all duration-300' href='/about' callback={showHideNavbar}>About</Navigate>
               </li>
             </ul>
           </div>
