@@ -15,7 +15,7 @@ export default function Navigate({ href, className, value, target='_self', scrol
     if(target==='_self') {
       navigate(href);
       scrollTop ? scrollToTop() : {};
-    } else {
+    } else if(target==='_blank') {
       window.open(href, '_blank');
     }
   }
