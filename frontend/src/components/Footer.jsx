@@ -13,7 +13,7 @@ export default function Footer() {
           <Navigate href='/get-started' className='bg-accent w-fit font-medium text-screen-bg-black py-3 px-4 rounded-lg hover:opacity-80 transition-all duration-300'>Get started</Navigate>
         </div>
         </div>
-      <div className='flex items-center flex-col pt-16 pb-16'>
+      <div className='flex items-center flex-col md:pt-32 pt-16 pb-16'>
 
         {/* Brand logo */}
         <div>
