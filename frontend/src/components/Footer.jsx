@@ -1,18 +1,21 @@
 import Navigate from 'components/Navigate';
 
-export default function Footer() {
+export default function Footer({ showImg=true }) {
   return (
     <footer className='bg-screen-bg-black'>
 
       {/* Get Started Image - Button */}
-      <div className='relative md:h-[30rem] h-[25rem] bg-screen-bg-black'>
-        <div className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 h-full w-screen object-cover bg-center mix-blend-luminosity' style={{backgroundImage: 'linear-gradient(#000000bf, #000000bf), url(/footer-get-started-bg.avif)'}} />
-        <div className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 h-full w-full flex flex-col justify-center items-center text-center'>
-          <h1 className='md:text-7xl text-4xl font-medium'>Ready to get started?</h1>
-          <p className='md:text-3xl text-xl font-light md:py-8 py-12'>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
-          <Navigate href='/get-started' className='bg-accent w-fit font-medium text-screen-bg-black py-3 px-4 rounded-lg hover:opacity-80 transition-all duration-300'>Get started</Navigate>
+      {showImg ? (
+        <div className='relative md:h-[30rem] h-[25rem] bg-screen-bg-black'>
+          <div className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 h-full w-screen object-cover bg-center mix-blend-luminosity' style={{backgroundImage: 'linear-gradient(#000000bf, #000000bf), url(/footer-get-started-bg.avif)'}} />
+          <div className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 h-full w-full flex flex-col justify-center items-center text-center'>
+            <h1 className='md:text-7xl text-4xl font-medium'>Ready to get started?</h1>
+            <p className='md:text-3xl text-xl font-light md:py-8 py-12'>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+            <Navigate href='/get-started' className='bg-accent w-fit font-medium text-screen-bg-black py-3 px-4 rounded-lg hover:opacity-80 transition-all duration-300'>Get started</Navigate>
+          </div>
         </div>
-        </div>
+      ) : (<></>)}
+      
       <div className='flex items-center flex-col md:pt-32 pt-16 pb-16'>
 
         {/* Brand logo */}

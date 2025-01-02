@@ -25,7 +25,7 @@ export default function App() {
 
           <Route path='features' element={<><Navbar /><Features /><Footer /></>} />
 
-          <Route path='get-started' element={<><Navbar /><GetStarted /><Footer /></>} />
+          <Route path='get-started' element={<><Navbar /><GetStarted /><Footer showImg={false} /></>} />
 
           <Route path='' element={<RequireData />}>
 
