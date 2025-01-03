@@ -29,7 +29,7 @@ export default function App() {
 
           <Route path='' element={<RequireData />}>
 
-            <Route path='analytics' element={<><Navbar /><Analytics /><Footer /></>} />
+            <Route path='analytics' element={<><Navbar /><Analytics /><Footer showImg={false} /></>} />
             
           </Route>
 
