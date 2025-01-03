@@ -25,3 +25,9 @@ RISK_MAP = {
   'moderate': 1,
   'high': 2
 }
+
+RISK_REV_MAP = {
+  0: 'low',
+  1: 'moderate',
+  2: 'high'
+}
