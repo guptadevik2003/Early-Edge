@@ -17,8 +17,8 @@ def test_model(model, data):
 
   name = re.sub(r"(?<!^)(?=[A-Z])", " ", model.__class__.__name__)
   accuracy = accuracy_score(y_test, y_pred)
-  mse = mean_squared_error(y_test, y_pred)
+  mse = float(mean_squared_error(y_test, y_pred))
   report = classification_report(y_test, y_pred, output_dict=True)
-  cmatrix = confusion_matrix(y_test, y_pred)
+  cmatrix = confusion_matrix(y_test, y_pred).tolist()
 
   return { 'name': name, 'accuracy': accuracy, 'mse': mse, 'report': report, 'cmatrix': cmatrix }
