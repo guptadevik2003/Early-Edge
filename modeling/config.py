@@ -20,6 +20,25 @@ WEIGHTS = {
   'travel_time'     :  0.05
 }
 
+NAME_MAP = {
+  'final_grade'     : 'Final Grade',
+  'absences'        : 'Absences',
+  'class_failures'  : 'Class Failures',
+  'study_time'      : 'Study Time',
+  'school_support'  : 'School Support',
+  'family_support'  : 'Family Support',
+  'mother_education': 'Mother\'s Education',
+  'father_education': 'Father\'s Education',
+  'internet_access' : 'Internet Access',
+  'health'          : 'Health',
+  'parent_status'   : 'Parent Status',
+  'address_type'    : 'Address Type',
+  'family_size'     : 'Family Size',
+  'mother_job'      : 'Mother\'s Job',
+  'father_job'      : 'Father\'s Job',
+  'travel_time'     : 'Travel Time'
+}
+
 RISK_MAP = {
   'low': 0,
   'moderate': 1,

@@ -1,10 +1,14 @@
 import 'assets/form.css';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { FaUser, FaGraduationCap, FaLandmark, FaCheck } from 'react-icons/fa6';
 import useDataContext from 'context/DataContext';
+import { useNavigate } from 'react-router-dom';
+import axios from 'axios';
 
 export default function GetStarted() {
-  // const {  } = useDataContext();
+  const navigate = useNavigate();
+
+  const { userData, saveUserData, predictData, savePredictData } = useDataContext();
   const [currentStep, setCurrentStep] = useState(1);
   const [formData, setFormData] = useState({
     full_name: '',
@@ -21,10 +25,26 @@ export default function GetStarted() {
     school_support: '',
     family_support: '',
     internet_access: '',
-    health: '',
+    health: 1,
     absences: 0,
     final_grade: 0,
   });
+
+  const disableSubmitBtn = (disabled) => {
+    let submitBtn = document.getElementById('submitBtn');
+    let submitTxt = document.getElementById('submitTxt');
+    if(disabled === true) {
+      submitBtn.classList.add('bg-opacity-50');
+      submitBtn.disabled = true;
+      submitTxt.textContent = '';
+      submitTxt.classList.add('loader');
+    } else {
+      submitBtn.classList.remove('bg-opacity-50');
+      submitBtn.disabled = false;
+      submitTxt.textContent = 'Submit';
+      submitTxt.classList.remove('loader');
+    }
+  }
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -32,6 +52,8 @@ export default function GetStarted() {
       ...prev,
       [name]: value,
     }));
+
+    disableSubmitBtn(false);
   }
   
   const handleNext = () => {
@@ -44,14 +66,56 @@ export default function GetStarted() {
     if(currentStep > 1) {
       setCurrentStep(prev => prev - 1);
     }
+
+    disableSubmitBtn(false);
   }
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
+    disableSubmitBtn(true);
+    
     setCurrentStep(prev => prev+1)
     e.preventDefault();
-    console.log('submitted', formData);
-    alert('Submitted!');
+    saveUserData(formData);
+
+    await axios.post(`/api/predict`, formData)
+    .then(res => {
+      let data = res.data;
+      if(!data.success) return alert(data.error);
+
+      savePredictData(data.data);
+      navigate('/analytics');
+    })
+    .catch(err => alert(err))
+    
   }
+
+  useEffect(() => {
+    document.title = `Get started - Early Edge`
+  }, []);
+
+  // Temporary auto-fill function starts
+  const tempAutoFill = () => {
+    setFormData({
+      full_name: 'Devik Gupta',
+      address_type: 'Urban',
+      family_size: 'Greater than 3',
+      parent_status: 'Living together',
+      mother_education: 'higher education',
+      father_education: 'higher education',
+      mother_job: 'at_home',
+      father_job: 'other',
+      travel_time: '15 to 30 min.',
+      study_time: '2 to 5 hours',
+      class_failures: 1,
+      school_support: 'yes',
+      family_support: 'yes',
+      internet_access: 'yes',
+      health: 4,
+      absences: 30,
+      final_grade: 16,
+    })
+  }
+  // Temporary auto-fill function ends
 
   return (
     <div>
@@ -337,11 +401,11 @@ export default function GetStarted() {
                     required
                   >
                     <option className='hidden'></option>
-                    <option value='1'>1 (Very Bad)</option>
-                    <option value='2'>2 (Bad)</option>
-                    <option value='3'>3 (Average)</option>
-                    <option value='4'>4 (Good)</option>
-                    <option value='5'>5 (Very Good)</option>
+                    <option value={1}>1 (Very Bad)</option>
+                    <option value={2}>2 (Bad)</option>
+                    <option value={3}>3 (Average)</option>
+                    <option value={4}>4 (Good)</option>
+                    <option value={5}>5 (Very Good)</option>
                   </select>
 
                   <h3>Absences (0 - 93)</h3>
@@ -401,10 +465,15 @@ export default function GetStarted() {
           </div>
 
           <div className='form-controls pt-2'>
-            {currentStep < 2 && <div></div>}
+
+            {/* Replacing empty div with a temporary button for auto-filling of form */}
+            {/* {currentStep < 2 && <div></div>} */}
+            {currentStep < 2 && <button className='bg-accent text-center font-medium text-screen-bg-black py-2 px-4 rounded-lg hover:opacity-80 transition-all duration-300' type='button' onClick={tempAutoFill}>Auto Fill</button>}
+            {/* Temporary button auto-filling ends */}
+
             {currentStep > 1 && <button className='bg-accent text-center font-medium text-screen-bg-black py-2 px-4 rounded-lg hover:opacity-80 transition-all duration-300' type='button' onClick={handleBack}>Back</button>}
             {currentStep < 3 && <button className='bg-accent text-center font-medium text-screen-bg-black py-2 px-4 rounded-lg hover:opacity-80 transition-all duration-300' type='button' onClick={handleNext}>Next</button>}
-            {currentStep === 3 && <button className='bg-accent text-center font-medium text-screen-bg-black py-2 px-4 rounded-lg hover:opacity-80 transition-all duration-300' type='submit' onClick={handleSubmit}>Submit</button>}
+            {currentStep >= 3 && <button className='bg-accent text-center font-medium text-screen-bg-black py-2 px-4 rounded-lg hover:opacity-80 transition-all duration-300' type='submit' id='submitBtn' onClick={handleSubmit}><div id='submitTxt'>Submit</div></button>}
           </div>
 
         </div>

@@ -1,7 +1,13 @@
+import { useEffect } from 'react';
 import Navigate from 'components/Navigate';
 import { FaIcons } from 'react-icons/fa6';
 
 export default function Home() {
+
+  useEffect(() => {
+    document.title = `Early Edge - Predictive Analytics for Primary School Dropout Prevention`
+  }, []);
+
   return (
     <div>
 

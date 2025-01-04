@@ -11,20 +11,29 @@ export default function useDataContext() {
 export function DataProvider({ children }) {
   const [isLoading, setIsLoading] = useState(false);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [predictData, setPredictData] = useState(null);
   const [userData, setUserData] = useState(null);
+  const [predictData, setPredictData] = useState(null);
 
   const saveUserData = async (newUserData) => {
     setIsLoading(true);
     setUserData(newUserData);
-    await localStorage.setItem('userData', JSON.stringify(userData));
+    await localStorage.setItem('userData', JSON.stringify(newUserData));
     setIsLoading(false);
   }
 
-  const resetUserData = async () => {
+  const savePredictData = async (newPredictData) => {
+    setIsLoading(true);
+    setPredictData(newPredictData);
+    await localStorage.setItem('predictData', JSON.stringify(newPredictData));
+    setIsLoading(false);
+  }
+
+  const resetAllData = async () => {
     setIsLoading(true);
     setUserData(null);
+    setPredictData(null);
     await localStorage.removeItem('userData');
+    await localStorage.removeItem('predictData');
     setIsLoading(false);
   }
 
@@ -32,7 +41,9 @@ export function DataProvider({ children }) {
     setIsLoading(true);
     try {
       let loadedUserData = await localStorage.getItem('userData');
+      let loadedPredictData = await localStorage.getItem('predictData');
       setUserData(JSON.parse(loadedUserData));
+      setPredictData(JSON.parse(loadedPredictData))
     } catch(err) {
       console.log(err);
     }
@@ -44,16 +55,17 @@ export function DataProvider({ children }) {
   }, []);
 
   const value = {
-    userData,
-    setUserData,
-    predictData,
-    setPredictData,
     isLoading,
     setIsLoading,
     isLoggedIn,
     setIsLoggedIn,
+    userData,
+    setUserData,
+    predictData,
+    setPredictData,
     saveUserData,
-    resetUserData,
+    savePredictData,
+    resetAllData,
   };
 
   return (
